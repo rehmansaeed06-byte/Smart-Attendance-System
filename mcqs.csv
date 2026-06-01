@@ -1,0 +1,1562 @@
+lecture_no,question,option1,option2,option3,option4,correct_option
+1,What is the main purpose of Java?,Develop applications,Design hardware,Manage networks,Create databases,1
+1,Who originally developed Java?,Sun Microsystems,Google,Microsoft,IBM,1
+1,Which company currently owns Java?,Oracle,Apple,Intel,Meta,1
+1,Java is primarily which type of language?,Object oriented,Markup,Machine,Assembly,1
+1,Which file extension is used for Java source files?,.java,.class,.txt,.exe,1
+1,Which method acts as the entry point of a Java program?,main(),start(),run(),execute(),1
+1,Which keyword is used to define a class?,class,define,struct,module,1
+1,Which symbol ends statements in Java?,;,:,.,#,1
+1,Java code is first converted into what?,Bytecode,Assembly code,Machine code,Binary stream,1
+1,Which component executes bytecode?,JVM,JDK,JRE,Compiler,1
+1,JDK stands for?,Java Development Kit,Java Deployment Kit,Java Design Kernel,Java Documentation Kit,1
+1,JRE stands for?,Java Runtime Environment,Java Runtime Engine,Java Resource Environment,Java Ready Environment,1
+1,Which command compiles Java code?,javac,java,compile,jrun,1
+1,Which command runs compiled Java code?,java,javac,run,execute,1
+1,Which package is automatically imported in Java?,java.lang,java.util,java.io,java.awt,1
+1,Which primitive type stores true or false?,boolean,int,char,float,1
+1,Which primitive type stores whole numbers?,int,String,boolean,double,1
+1,Which primitive type stores decimal numbers?,double,boolean,char,int,1
+1,Which primitive type stores a single character?,char,String,double,boolean,1
+1,Which of these is not a primitive data type?,String,int,double,char,1
+1,Which keyword creates an object?,new,class,this,make,1
+1,Java programs are platform independent because of?,JVM,Compiler,CPU,RAM,1
+1,Which tool is included in JDK for documentation generation?,javadoc,jar,jlink,jmod,1
+1,What does JVM stand for?,Java Virtual Machine,Java Variable Method,Java Visual Manager,Java Version Manager,1
+1,Which memory area stores objects at runtime?,Heap,Stack,Register,Cache,1
+1,Which device performs calculations and executes instructions?,CPU,Monitor,Keyboard,Printer,1
+1,What does CPU stand for?,Central Processing Unit,Computer Processing Utility,Central Program Unit,Control Processing Unit,1
+1,Which component is considered the brain of the computer?,CPU,RAM,SSD,GPU,1
+1,Which memory loses data when power is turned off?,RAM,ROM,SSD,Hard Disk,1
+1,Which memory retains data permanently?,ROM,RAM,Cache,Register,1
+1,What is the full form of RAM?,Random Access Memory,Read Access Memory,Runtime Access Module,Random Allocation Memory,1
+1,What is the full form of ROM?,Read Only Memory,Runtime Only Memory,Read Open Module,Random Output Memory,1
+1,Which storage device is non-volatile?,SSD,RAM,Cache,Register,1
+1,Which software controls hardware resources?,Operating System,Compiler,Browser,IDE,1
+1,Which of these is an operating system?,Windows,Java,Chrome,Python,1
+1,What is software?,Set of instructions for computer,Physical computer parts,Electronic circuits,Storage devices,1
+1,What is hardware?,Physical components of computer,Programs,Algorithms,Instructions,1
+1,Which device is an input device?,Keyboard,Monitor,Speaker,Projector,1
+1,Which device is an output device?,Monitor,Keyboard,Mouse,Scanner,1
+1,Which device performs both input and output?,Touchscreen,Printer,Speaker,Scanner,1
+1,Which language is directly understood by computer hardware?,Machine Language,Java,Python,C++,1
+1,High-level languages are easier because they are?,Human readable,Hardware readable,Binary only,Assembly based,1
+1,What translates source code into machine code?,Compiler,CPU,RAM,Monitor,1
+1,Which Java tool translates source code into bytecode?,javac,java,javadoc,jar,1
+1,What is an IDE?,Integrated Development Environment,Internal Development Engine,Internet Design Environment,Integrated Data Engine,1
+1,Which is an example of a Java IDE?,IntelliJ IDEA,MS Paint,Photoshop,Notepad,1
+1,Which of these is NOT a Java IDE?,Google Chrome,NetBeans,Eclipse,IntelliJ,1
+1,Which process finds and removes errors in code?,Debugging,Compiling,Encoding,Scanning,1
+1,What is a syntax error?,Violation of language rules,Hardware failure,Slow execution,Network issue,1
+1,What is the first step before executing Java code?,Compile source code,Install browser,Format disk,Restart PC,1
+1,What is the correct order of program development?,Design-Code-Test,Test-Code-Design,Compile-Design-Code,Run-Test-Code,1
+1,Which step identifies what problem must be solved?,Problem Analysis,Coding,Testing,Deployment,1
+1,What is pseudocode used for?,Planning logic,Compiling code,Running programs,Storing files,1
+1,Flowcharts mainly represent?,Program logic graphically,Hardware structure,Database tables,Network design,1
+1,What does compile-time error mean?,Error during compilation,Error after shutdown,Hardware damage,Network failure,1
+1,What is a runtime error?,Error during execution,Error during installation,Typing mistake only,Monitor issue,1
+1,What is a logic error?,Program runs but gives wrong output,Compilation fails,PC crashes,File deleted,1
+1,Which tool is used to execute Java bytecode?,JVM,Compiler,Monitor,BIOS,1
+1,Which file is produced after compilation?,.class,.java,.txt,.exe,1
+1,Java bytecode allows programs to be?,Platform independent,Platform locked,Hardware dependent,OS specific,1
+1,Which statement about Java is true?,Write once run anywhere,Write once Windows only,Requires assembly language,Works without JVM,1
+1,Which Java edition is used for desktop applications?,Java SE,Java ME,Java Card,Java TV,1
+1,Which Java edition targets enterprise applications?,Java EE,Java Card,Java ME,Java Nano,1
+1,Which Java edition is designed for mobile and embedded systems?,Java ME,Java EE,Java FX,Java SE,1
+1,What does IDE mainly help with?,Writing and managing code,Replacing CPU,Formatting drives,Networking only,1
+1,Which IDE are you currently using in this project?,IntelliJ IDEA,Photoshop,Blender,Chrome,1
+1,Which keyboard shortcut usually runs programs in IntelliJ?,Shift+F10,Ctrl+Z,Alt+Tab,Ctrl+X,1
+1,What is source code?,Human-readable program instructions,Machine binary only,Electrical signals,Database entries,1
+1,What does execution mean in programming?,Running program instructions,Deleting code,Formatting files,Installing OS,1
+1,Why are comments used in programs?,Improve readability,Increase CPU speed,Reduce RAM usage,Compile faster,1
+1,Which symbol starts a single-line comment in Java?,//,**,##,@@,1
+1,Which symbols create multi-line comments?,/* */,<-- -->,//,{},1
+1,Which statement about Java comments is true?,Compiler ignores comments,Comments execute first,Comments create variables,Comments increase speed,1
+1,What is portability in Java?,Running on multiple platforms,Using multiple monitors,Working offline only,Using many keyboards,1
+1,Which component manages memory automatically in Java?,Garbage Collector,Compiler,Keyboard Driver,BIOS,1
+1,What is garbage collection in Java?,Automatic memory management,Deleting source code,Compiling classes,Creating objects,1
+1,Which memory area stores local variables?,Stack,Heap,ROM,Cache,1
+1,Which memory area mainly stores objects?,Heap,Stack,Register,ROM,1
+1,Java programs require which component installed to run?,JRE,MS Word,Photoshop,BIOS Update,1
+1,What does Java API provide?,Prewritten classes and libraries,Hardware drivers only,Network cables,Operating systems,1
+1,Which package contains Scanner class?,java.util,java.lang,java.io,java.net,1
+1,Which package contains Math class?,java.lang,java.util,java.awt,java.io,1
+1,What is the purpose of the import statement?,Access external classes,Create loops,Compile code,Faster execution,1
+1,Which statement creates an object?,Student s = new Student();,Student();,object Student;,new object Student;,1
+1,What happens if Java source file has syntax errors?,Compilation fails,Program runs faster,Program executes normally,OS crashes,1
+1,What does testing mainly ensure?,Program correctness,More RAM,Smaller files,Faster keyboard,1
+1,Which testing type checks individual parts of code?,Unit testing,System testing,Network testing,Hardware testing,1
+1,Why is debugging important?,Remove program errors,Increase storage,Install JVM,Reduce typing,1
+1,Which error type is hardest to find?,Logic error,Syntax error,Compile error,File error,1
+1,What is documentation in programming?,Explaining program details,Deleting comments,Compiling code,Encrypting files,1
+1,Which statement best describes Java?,Object-oriented and platform independent,Machine dependent only,Assembly language,Database software,1
+1,What is the purpose of classes in Java?,Blueprint for objects,Store RAM,Compile programs,Replace JVM,1
+1,What is an object in Java?,Instance of a class,Compiler output,Operating system,Database table,1
+1,Which of these is an advantage of Java?,Portability,No compilation,Hardware dependency,No JVM needed,1
+1,Which Java feature allows running same code on multiple OS?,Bytecode and JVM,Hardcoding,Assembly conversion,BIOS support,1
+1,Which organization standardized Java development after Sun?,Oracle,Google,Intel,Microsoft,1
+1,What is the output device among these?,Projector,Keyboard,Mouse,Scanner,1
+1,Which component translates Java bytecode to machine instructions?,JVM,IDE,JDK,Editor,1
+1,What does WORA stand for?,Write Once Run Anywhere,Write Often Run Always,Work On Runtime Access,Write Output Read Again,1
+1,Which phase comes after coding in software development?,Testing,Problem analysis,Hardware setup,Networking,1
+2,Which keyword declares an integer variable in Java?,int,double,float,String,1
+2,Which data type stores decimal numbers with high precision?,double,int,char,boolean,1
+2,Which data type stores a single character?,char,String,double,int,1
+2,Which data type stores true or false values?,boolean,int,char,float,1
+2,Which keyword creates an object in Java?,new,class,create,object,1
+2,Which class is commonly used for user input?,Scanner,Input,Console,Reader,1
+2,Which package contains Scanner class?,java.util,java.lang,java.io,java.net,1
+2,Which statement creates Scanner object?,Scanner input = new Scanner(System.in);,Scanner input;,new Scanner();,Scanner(System.in);,1
+2,Which method reads integer input using Scanner?,nextInt(),readInt(),getInt(),inputInt(),1
+2,Which method reads double input?,nextDouble(),getDouble(),inputDouble(),readDouble(),1
+2,Which method reads a full line of text?,nextLine(),nextText(),nextString(),readLine(),1
+2,Which operator is used for assignment?,=,==,+,-,1
+2,Which operator checks equality?,==,=,!=,++,1
+2,What is result of 10 / 3 in integer division?,3,3.33,4,0,1
+2,What operator gives remainder?,%,/,*,+,1
+2,Which operator means NOT equal?,!=,==,<=,++,1
+2,Which operator increases value by one?,++,--,+=,*=,1
+2,Which operator decreases value by one?,--,++,/=,==,1
+2,Which operator performs multiplication?,*,+,-,%,1
+2,Which operator performs division?,/,+,*,%,1
+2,What is type casting?,Converting one type to another,Deleting variables,Creating objects,Compiling code,1
+2,Which is explicit casting?,(int)5.8,int x=5,double y=7,new int(),1
+2,Which conversion happens automatically?,Widening conversion,Narrowing conversion,Explicit casting,Forced casting,1
+2,Which data type is larger?,double,int,char,byte,1
+2,Which class contains common math functions?,Math,Scanner,System,Random,1
+2,Which method returns absolute value?,Math.abs(),Math.absolute(),Math.mod(),Math.absoluteValue(),1
+2,Which method calculates square root?,Math.sqrt(),Math.square(),Math.root(),Math.pow(),1
+2,Which method raises power values?,Math.pow(),Math.exp(),Math.raise(),Math.power(),1
+2,Which method generates random numbers?,Math.random(),Math.rand(),Math.next(),Math.generate(),1
+2,What range does Math.random() generate?,0.0 to less than 1.0,1 to 100,-1 to 1,0 to 10,1
+2,Which statement outputs text in Java?,System.out.println(),print.text(),Console.write(),output.print(),1
+2,Which statement prints without moving to new line?,System.out.print(),System.out.println(),print.line(),System.write(),1
+2,Which symbol is used for addition?,+,-,*,/,1
+2,Which symbol is used for subtraction?,-,+,/,%,1
+2,What is the precedence of multiplication compared to addition?,Higher,Lower,Equal,None,1
+2,What will 5 + 2 * 3 evaluate to?,11,21,15,13,1
+2,Parentheses in expressions are used to?,Control precedence,Store variables,Create loops,End statements,1
+2,Which operator combines assignment and addition?,+=,-=,*=,/=,1
+2,Which operator combines assignment and multiplication?,*=,+=,-=,%=,1
+2,Which operator combines assignment and division?,/=,+=,*=,==,1
+2,What does x += 5 mean?,x = x + 5,x = 5,x = x - 5,x = x * 5,1
+2,What does x *= 2 mean?,x = x * 2,x = x + 2,x = x / 2,x = x - 2,1
+2,Which data type consumes less memory?,byte,double,String,long,1
+2,Which primitive type stores very large integers?,long,byte,char,float,1
+2,Which primitive type uses 64 bits for decimal values?,double,float,int,short,1
+2,What is a variable?,Named storage location,Compiler tool,Loop structure,Math function,1
+2,Which keyword makes a constant variable?,final,const,static,fixed,1
+2,What happens if final variable value is changed?,Compilation error,Runtime error,Nothing,Program exits,1
+2,Which naming style is recommended for variables?,camelCase,UPPER_CASE,PascalCase,ALLSMALL,1
+2,Which of these is a valid variable name?,studentAge,2value,class,float-value,1
+2,Which keyword is used to declare floating point values with less precision?,float,double,int,long,1
+2,Which suffix is required for float literals?,f,d,l,c,1
+2,Which statement correctly declares a double variable?,double x = 5.5;,double x := 5.5;,double = 5.5;,x double 5.5;,1
+2,What is the value of 7 % 3 ?,1,2,0,3,1
+2,Which operator performs modulus operation?,%,/,*,+,1
+2,What is output type of int plus double?,double,int,float,long,1
+2,Which conversion may lose data?,Narrowing conversion,Widening conversion,Automatic conversion,Implicit conversion,1
+2,What does System.out.println() automatically add after output?,New line,Space,Tab,Comma,1
+2,Which escape sequence creates a new line?,\n,\t,\b,\\,1
+2,Which escape sequence inserts a tab space?,\t,\n,\r,\",1
+2,Which escape sequence prints double quotes?,\",\\,\',\n,1
+2,Which class variable stores command line arguments in main method?,args,input,argv,param,1
+2,Which keyword defines a method that belongs to class not object?,static,void,new,final,1
+2,What is the return type of main() method?,void,int,double,String,1
+2,What does public mean in main method?,Accessible everywhere,Stores integers,Creates object,Runs loops,1
+2,What happens if variable is used without initialization?,Compilation error,Automatic zero,Runtime error,Ignored,1
+2,Which statement is correct for multiple variable declaration?,int a=1,b=2;,int a=1 and b=2;,a=1,b=2 int;,declare int a,b;,1
+2,Which operator has higher precedence?,Parentheses,Addition,Assignment,Comparison,1
+2,What is output of (8+2)*3 ?,30,14,24,18,1
+2,Which operator performs integer division when both operands are integers?,/,%,*,+,1
+2,What is the result of 9/2 using integers?,4,4.5,5,3,1
+2,What is the result of 9.0/2 ?,4.5,4,5,2,1
+2,What is concatenation in Java?,Joining strings,Multiplying values,Declaring variables,Creating arrays,1
+2,Which operator concatenates strings?,+,*,&,%,1
+2,What is output of "Java" + 5 ?,Java5,Error,5Java,Java,1
+2,Which class contains predefined constants like PI?,Math,System,Scanner,Random,1
+2,Which constant stores value of π ?,Math.PI,Math.pi,PI.Math,System.PI,1
+2,Which method rounds decimal values to nearest integer?,Math.round(),Math.floor(),Math.ceil(),Math.random(),1
+2,Which method always rounds downward?,Math.floor(),Math.ceil(),Math.round(),Math.abs(),1
+2,Which method always rounds upward?,Math.ceil(),Math.floor(),Math.random(),Math.round(),1
+2,Which method returns maximum value?,Math.max(),Math.high(),Math.greater(),Math.large(),1
+2,Which method returns minimum value?,Math.min(),Math.low(),Math.small(),Math.lesser(),1
+2,What is output of Math.max(4,9)?,9,4,13,5,1
+2,What is output of Math.min(7,3)?,3,7,10,4,1
+2,Which class is used for generating random numbers more flexibly?,Random,Math,Scanner,System,1
+2,Which package contains Random class?,java.util,java.lang,java.io,java.net,1
+2,Which statement creates Random object?,Random r = new Random();,Random();,new Random;,Random r();,1
+2,What is the purpose of comments?,Improve readability,Increase speed,Reduce memory,Compile code,1
+2,Which symbol starts multi-line comments?,/*,//,**,#,1
+2,Which symbol ends multi-line comments?,*/,//,**,;,1
+2,Which keyword prevents value modification?,final,static,public,new,1
+2,What is output of 2 + 3 + "Java" ?,5Java,Java5,23Java,Error,1
+2,What is output of "Java" + 2 + 3 ?,Java23,5Java,Java5,Error,1
+2,What is input mismatch exception commonly caused by?,Wrong input type,Wrong variable name,Compilation issue,Network issue,1
+2,Which method reads a single word string?,next(),nextLine(),read(),get(),1
+2,Which method closes Scanner object?,close(),stop(),end(),terminate(),1
+2,Why should Scanner be closed?,Release resources,Increase speed,Compile code,Store variables,1
+2,Which keyword creates object memory dynamically?,new,create,class,define,1
+2,What is output of (double)5/2 ?,2.5,2,3,5,1
+2,What is elementary programming mainly about?,Basic coding concepts,AI development,Networking,Database design,1
+3,Which statement is used for decision making in Java?,if,loop,array,class,1
+3,Which keyword provides alternative execution path?,else,case,break,continue,1
+3,Which operator checks equality?,==,=,!=,++,1
+3,Which operator means not equal?,!=,==,<=,>=,1
+3,Which operator means greater than?,>,<,==,!=,1
+3,Which operator means less than?,<,>,>=,==,1
+3,Which operator means greater than or equal to?,>=,>,<,<=,1
+3,Which operator means less than or equal to?,<=,<,>,>=,1
+3,What data type is produced by relational operators?,boolean,int,char,double,1
+3,Which logical operator means AND?,&&,||,!,&,1
+3,Which logical operator means OR?,||,&&,^,%,1
+3,Which logical operator means NOT,!,&&,||,++,1
+3,What is output of true && false?,false,true,0,1,1
+3,What is output of true || false?,true,false,0,1,1
+3,What is output of !true?,false,true,1,0,1
+3,Which statement executes only when condition is true?,if,while,for,class,1
+3,Which structure allows multiple alternatives?,if-else-if,array,method,class,1
+3,Which keyword is used in switch block?,case,catch,defaultClass,return,1
+3,Which keyword exits switch statement?,break,stop,exit,return,1
+3,Which keyword executes when no case matches?,default,else,none,final,1
+3,What happens without break in switch?,Fall through occurs,Program crashes,Compilation error,Nothing,1
+3,Which data type commonly works with switch?,int,double,array,float,1
+3,What is nesting in selections?,Selection inside selection,Loop inside array,Class inside object,Method inside package,1
+3,Which operator is called ternary operator,?:,::,??,%%,1
+3,Ternary operator requires how many operands?,3,2,1,4,1
+3,What is output of 5 > 3 ?,true,false,5,3,1
+3,What is output of 4 == 4 ?,true,false,0,1,1
+3,What is output of 6 != 2 ?,true,false,6,2,1
+3,Which operator has higher precedence among logical operators?,!,&&,||,None,1
+3,What is result of false || false ?,false,true,0,1,1
+3,What is result of true && true ?,true,false,0,1,1
+3,What is output of !(5>3) ?,false,true,Error,0,1
+3,Which statement is best for multiple exact matches?,switch,if,array,loop,1
+3,How many default blocks are allowed in switch?,1,2,Unlimited,0,1
+3,Can switch work without default?,Yes,No,Only for int,Never,1
+3,Which selection structure checks conditions sequentially?,if-else-if,switch,array,constructor,1
+3,What is the purpose of break in switch?,Stop execution,Start loop,Create object,Exit program,1
+3,What happens when condition in if is false and no else exists?,Nothing executes,Compilation error,Loop starts,Program stops,1
+3,Which symbol encloses conditions in if statement?,(),{},[],<>,1
+3,Which braces contain block statements?,{},(),[],<>,1
+3,What is output if x=5 and condition x>10 ?,false,true,5,10,1
+3,Which operator combines multiple conditions?,Logical operators,Arithmetic operators,Assignment operators,Increment operators,1
+3,Which logical expression means both conditions must be true?,&&,||,!,%,1
+3,Which logical expression means at least one condition true?,||,&&,!,+,1
+3,Which condition checks if age lies between 18 and 30?,age>=18 && age<=30,age=18,age||30,age++30,1
+3,What is a boolean expression?,Expression producing true/false,Integer equation,Loop variable,String operation,1
+3,Which is a valid if statement syntax?,if(x>0),if x>0,if[x>0],if{x>0},1
+3,What is output of true || true ?,true,false,Error,0,1
+3,What is output of false && true ?,false,true,Error,1,1
+3,Why are selections used?,Make decisions,Create arrays,Store objects,Compile faster,1
+3,What is output of 5 > 3 ?,true,false,5,3,1
+3,What is output of 4 == 4 ?,true,false,0,1,1
+3,What is output of 6 != 2 ?,true,false,6,2,1
+3,Which operator has higher precedence among logical operators?,!,&&,||,None,1
+3,What is result of false || false ?,false,true,0,1,1
+3,What is result of true && true ?,true,false,0,1,1
+3,What is output of !(5>3) ?,false,true,Error,0,1
+3,Which statement is best for multiple exact matches?,switch,if,array,loop,1
+3,How many default blocks are allowed in switch?,1,2,Unlimited,0,1
+3,Can switch work without default?,Yes,No,Only for int,Never,1
+3,Which selection structure checks conditions sequentially?,if-else-if,switch,array,constructor,1
+3,What is the purpose of break in switch?,Stop execution,Start loop,Create object,Exit program,1
+3,What happens when condition in if is false and no else exists?,Nothing executes,Compilation error,Loop starts,Program stops,1
+3,Which symbol encloses conditions in if statement?,(),{},[],<>,1
+3,Which braces contain block statements?,{},(),[],<>,1
+3,What is output if x=5 and condition x>10 ?,false,true,5,10,1
+3,Which operator combines multiple conditions?,Logical operators,Arithmetic operators,Assignment operators,Increment operators,1
+3,Which logical expression means both conditions must be true?,&&,||,!,%,1
+3,Which logical expression means at least one condition true?,||,&&,!,+,1
+3,Which condition checks if age lies between 18 and 30?,age>=18 && age<=30,age=18,age||30,age++30,1
+3,What is a boolean expression?,Expression producing true/false,Integer equation,Loop variable,String operation,1
+3,Which is a valid if statement syntax?,if(x>0),if x>0,if[x>0],if{x>0},1
+3,What is output of true || true ?,true,false,Error,0,1
+3,What is output of false && true ?,false,true,Error,1,1
+3,Why are selections used?,Make decisions,Create arrays,Store objects,Compile faster,1
+3,Which keyword begins a switch statement block?,switch,case,break,default,1
+3,Which value type is returned by comparison operators?,boolean,int,double,String,1
+3,What is output of (10>2)&&(8>1) ?,true,false,10,8,1
+3,What is output of (10<2)||(8>1) ?,true,false,0,1,1
+3,Which operator is used to reverse boolean value?,!,&&,||,==,1
+3,What happens if break is omitted in switch cases?,Execution continues to next case,Compilation fails,Program stops,Loop starts,1
+3,Can nested if statements have multiple levels?,Yes,No,Only two levels,Only one level,1
+3,Which statement is more efficient for checking many fixed choices?,switch,if,array,while,1
+3,What is output of !(3<5) ?,false,true,3,5,1
+3,Which condition checks whether number is outside range 1–10?,num<1 || num>10,num>=1 && num<=10,num==1,num!=10,1
+3,What is output of false || true && true ?,true,false,Error,0,1
+3,Which operator executes first in false || true && true ?,&&,||,!,==,1
+3,What is output of (4>2)&&(7<3) ?,false,true,4,7,1
+3,Which keyword is used to define alternative conditions after if?,else if,switch,default,break,1
+3,Can switch statements contain nested switch blocks?,Yes,No,Only one switch allowed,Only with loops,1
+3,What is output of 5==5 ? true : false ?,true,false,5,Error,1
+3,Which operator separates outcomes in ternary operator?,: ,;,.,?,1
+3,Which part of ternary operator comes first?,Condition,False result,True result,Colon,1
+3,What is output of true && true || false ?,true,false,Error,0,1
+3,Which selection structure is usually simpler for range checking?,if-else,switch,array,method,1
+3,What happens when if condition evaluates to true?,Its block executes,Program stops,Else runs,Loop starts,1
+3,Which keyword immediately exits switch block?,break,continue,stop,exit,1
+3,What is output of !(false && true) ?,true,false,0,1,1
+3,What does logical AND require?,Both conditions true,One condition true,Both false,Equal values,1
+3,What does logical OR require?,At least one true,Both true,Both false,Equal values,1
+4,Which class provides mathematical functions in Java?,Math,Scanner,String,System,1
+4,Which method returns square root?,Math.sqrt(),Math.square(),Math.root(),Math.pow(),1
+4,Which method calculates power?,Math.pow(),Math.power(),Math.exp(),Math.raise(),1
+4,Which method returns absolute value?,Math.abs(),Math.absolute(),Math.mod(),Math.max(),1
+4,Which method rounds to nearest integer?,Math.round(),Math.ceil(),Math.floor(),Math.random(),1
+4,Which method always rounds upward?,Math.ceil(),Math.floor(),Math.round(),Math.sqrt(),1
+4,Which method always rounds downward?,Math.floor(),Math.ceil(),Math.random(),Math.abs(),1
+4,Which method returns maximum value?,Math.max(),Math.high(),Math.greater(),Math.big(),1
+4,Which method returns minimum value?,Math.min(),Math.low(),Math.small(),Math.less(),1
+4,What range does Math.random() generate?,0.0 to less than 1.0,1 to 100,-1 to 1,0 to 10,1
+4,Which data type stores a single character?,char,String,int,double,1
+4,Characters in Java are enclosed in?,Single quotes,Double quotes,Brackets,Curly braces,1
+4,Strings in Java are enclosed in?,Double quotes,Single quotes,Brackets,Angle brackets,1
+4,What is ASCII?,Character encoding standard,Math function,Compiler type,Loop method,1
+4,What Unicode allows?,Represent many languages,Increase RAM,Compile faster,Reduce memory,1
+4,Which method converts character to uppercase?,Character.toUpperCase(),Character.upper(),charUpper(),toCaps(),1
+4,Which method converts character to lowercase?,Character.toLowerCase(),Character.lower(),charLower(),toSmall(),1
+4,Which method checks if character is digit?,Character.isDigit(),Character.checkDigit(),isNum(),digitCheck(),1
+4,Which method checks if character is letter?,Character.isLetter(),Character.checkLetter(),isAlpha(),letterCheck(),1
+4,Which method checks if character is whitespace?,Character.isWhitespace(),Character.space(),checkSpace(),isBlank(),1
+4,Which keyword creates a String object automatically?,new,None required,class,create,2
+4,String objects are?,Immutable,Mutable,Temporary,Numeric,1
+4,Which method returns string length?,length(),size(),count(),getLength(),1
+4,What is indexing of strings starting from?,0,1,-1,Depends on compiler,1
+4,Which method gets character at index?,charAt(),character(),getChar(),charIndex(),1
+4,Which method joins two strings?,concat(),joinString(),appendText(),combine(),1
+4,Which operator also concatenates strings?,+,*,&,%,1
+4,Which method compares strings ignoring case?,equalsIgnoreCase(),compareCase(),sameText(),equalsCase(),1
+4,Which method compares exact strings?,equals(),same(),compare(),match(),1
+4,Which method extracts substring?,substring(),subStringPart(),extract(),cut(),1
+4,substring(2) starts from?,Index 2,Index 1,Beginning,End,1
+4,Which method converts string to uppercase?,toUpperCase(),upper(),caps(),makeUpper(),1
+4,Which method converts string to lowercase?,toLowerCase(),lower(),small(),makeLower(),1
+4,Which method removes extra spaces at ends?,trim(),removeSpaces(),stripAll(),clean(),1
+4,Which method checks if string contains text?,contains(),hasText(),find(),search(),1
+4,Which method replaces characters/text?,replace(),change(),swap(),edit(),1
+4,What does compareTo() return?,Comparison integer,String,Boolean,Character,1
+4,Which method converts integer to string?,String.valueOf(),toText(),convert(),parseString(),1
+4,Which method converts string to integer?,Integer.parseInt(),String.toInt(),convertInt(),parse(),1
+4,What happens if charAt index is invalid?,Exception,Returns null,Returns space,Returns 0,1
+4,Which escape sequence creates new line?,\n,\t,\b,\\,1
+4,Which escape sequence inserts tab?,\t,\n,\r,\',1
+4,Which escape sequence prints quote mark?,\",\\,\',\n,1
+4,Which class contains character helper methods?,Character,String,Math,System,1
+4,What is output type of charAt()?,char,String,int,double,1
+4,Can strings be compared using == ?,Yes but compares references,Always compares content,Never allowed,Returns error,1
+4,Which method should compare string contents?,equals(),==,compareContent(),same(),1
+4,What is result of "Java".length() ?,4,5,3,0,1
+4,What is first index of string "Java"?,0,1,2,4,1
+4,Which method finds position of character/text?,indexOf(),find(),search(),position(),1
+4,What does lastIndexOf() return?,Last occurrence index,First occurrence index,String length,Boolean result,1
+4,Which method checks whether string starts with text?,startsWith(),begins(),firstText(),hasStart(),1
+4,Which method checks whether string ends with text?,endsWith(),finishWith(),hasEnd(),stopWith(),1
+4,What is output of "Java".toUpperCase() ?,JAVA,java,Java,Error,1
+4,What is output of "JAVA".toLowerCase() ?,java,JAVA,Java,Error,1
+4,What is output of " hello ".trim() ?,"hello"," hello ","hello "," error",1
+4,Which method returns Unicode value of character?,(int)char,unicode(),charCode(),getUnicode(),1
+4,What is Unicode mainly used for?,Supporting multiple languages,Increasing speed,Reducing RAM,Compiling code,1
+4,Which class is immutable in Java?,String,StringBuilder,Scanner,Character,1
+4,Which class is mutable for strings?,StringBuilder,String,Character,Scanner,1
+4,What does Character.isUpperCase() check?,Uppercase letter,Lowercase letter,Digit,Whitespace,1
+4,What does Character.isLowerCase() check?,Lowercase letter,Uppercase letter,Digit,Symbol,1
+4,What does Character.isLetterOrDigit() check?,Letter or digit,Only digit,Only letter,Whitespace,1
+4,What is output of "Java".charAt(1) ?,a,J,v,a,1
+4,What is output of "Hello".substring(1,4) ?,ell,ello,Hel,elloo,1
+4,substring(begin,end) includes end index?,No,Yes,Sometimes,Only for strings,1
+4,What happens if substring indexes are invalid?,Exception,Returns empty string,Returns null,Ignored,1
+4,Which method converts object/data to string representation?,toString(),stringify(),convert(),value(),1
+4,Which class provides formatted output?,System.out.printf(),Scanner,Character,Math,1
+4,Which symbol is used as format specifier for integers in printf?,%d,%f,%c,%s,1
+4,Which symbol is used for decimal formatting?,%f,%d,%s,%c,1
+4,Which symbol is used for strings in printf?,%s,%d,%f,%c,1
+4,Which symbol is used for characters in printf?,%c,%d,%s,%f,1
+4,What does %n do in printf?,New line,Tab,Space,Nothing,1
+4,Which class wraps primitive char functionality?,Character,String,Scanner,Math,1
+4,What is output of Character.toUpperCase('a') ?,A,a,65,Error,1
+4,What is output of Character.toLowerCase('B') ?,b,B,98,Error,1
+4,What is output of Character.isDigit('5') ?,true,false,5,Error,1
+4,What is output of Character.isLetter('7') ?,false,true,7,Error,1
+4,What does escape sequence \\ print?,Backslash,Slash,Tab,Quote,1
+4,What does escape sequence \b represent?,Backspace,Blank space,Backslash,Bold text,1
+4,Which method checks exact string equality?,equals(),==,compareTo(),contains(),1
+4,What does compareTo() return when strings are equal?,0,1,-1,true,1
+4,What does compareTo() return when first string is greater?,Positive number,Negative number,Zero,Boolean,1
+4,What does compareTo() return when first string is smaller?,Negative number,Positive number,Zero,Error,1
+4,What is output of "abc".equals("ABC") ?,false,true,abc,Error,1
+4,What is output of "abc".equalsIgnoreCase("ABC") ?,true,false,abc,Error,1
+4,Which method searches text inside a string?,contains(),search(),scan(),findText(),1
+4,What does String.valueOf(123) return?,String representation,Integer,StringBuilder,Character,1
+4,Which method converts double string to double value?,Double.parseDouble(),parseFloat(),toDouble(),convertDouble(),1
+4,Which class provides methods for numeric conversions?,Wrapper classes,Scanner,Math,System,1
+4,What is output of "Java"+"Programming" ?,JavaProgramming,Java Programming,ProgrammingJava,Error,1
+4,What does immutable mean?,Cannot be changed after creation,Changes automatically,Deletes itself,Stores numbers only,1
+4,Which operation creates new string instead of modifying existing one?,concat(),replace(),toUpperCase(),All of these,1
+4,What is output of "abcd".indexOf('c') ?,2,3,1,0,1
+4,What is output of "abcd".lastIndexOf('d') ?,3,2,4,1,1
+4,Which string method returns empty string length?,0,1,-1,Null,1
+4,What is output of "JAVA".contains("AV") ?,true,false,Error,0,1
+4,What is the main purpose of Chapter 4 topics?,Manipulating numbers, characters, and strings,Creating databases,Networking,File handling,1
+4,Which data type is internally used for Unicode characters?,char,String,int,byte,1
+5,Which loop checks condition before execution?,while,do-while,switch,if,1
+5,Which loop executes body at least once?,do-while,while,for,foreach,1
+5,Which loop is commonly used when iterations are known?,for,while,if,switch,1
+5,Which keyword immediately exits a loop?,break,continue,stop,exit,1
+5,Which keyword skips current iteration?,continue,break,skip,next,1
+5,Which loop syntax contains initialization condition and update together?,for,while,do-while,if,1
+5,What happens in an infinite loop?,Runs forever,Stops automatically,Gives compile error,Deletes memory,1
+5,Which symbol ends do-while condition?,Semicolon,Colon,Comma,Period,1
+5,Which loop is entry-controlled?,while,do-while,both,None,1
+5,Which loop is exit-controlled?,do-while,while,for,if,1
+5,What is initialization in loops?,Starting value setup,Stopping loop,Creating objects,Printing output,1
+5,What is iteration?,One repetition of loop body,Compilation process,Object creation,Input operation,1
+5,Which loop component updates variable?,Increment/decrement,Condition,Object,Scanner,1
+5,What is output of for(int i=0;i<3;i++) ?,3 iterations,2 iterations,Infinite loop,4 iterations,1
+5,What does i++ mean?,Increase by 1,Decrease by 1,Multiply by 1,Reset value,1
+5,Which operator decreases variable by one?,--,++,+=,*=,1
+5,What happens if while condition is false initially?,Loop never runs,Runs once,Compile error,Infinite loop,1
+5,Can loops be nested?,Yes,No,Only for loops,Only while loops,1
+5,What is nested loop?,Loop inside another loop,Loop inside class,Class inside loop,Method inside object,1
+5,Which loop is best for counting numbers?,for,if,switch,array,1
+5,What is sentinel value?,Special value to stop loop,Starting value,Loop variable,Random value,1
+5,What does break do inside nested loops?,Exits nearest loop,Exits all loops,Stops program,Restarts loop,1
+5,What does continue do?,Skip remaining iteration code,End loop,Restart program,Delete variable,1
+5,Which loop is suitable for menu programs?,while,if,array,class,1
+5,Which loop can create multiplication tables easily?,for,if,switch,Scanner,1
+5,What is output of while(false) ?,No execution,One execution,Infinite loop,Compile error,1
+5,Which keyword controls decisions inside loops?,if,class,package,new,1
+5,What is loop condition used for?,Determine continuation,Store variables,Compile code,Create objects,1
+5,Which loop may not execute even once?,while,do-while,both,none,1
+5,How many times does do-while run minimum?,1,0,2,Infinite,1
+5,Which statement creates infinite while loop?,while(true),while(false),while(0),while(end),1
+5,What is output of for(int i=1;i<=5;i++) ?,5 iterations,4 iterations,6 iterations,Infinite,1
+5,Which loop part executes first in for loop?,Initialization,Condition,Update,Body,1
+5,Which loop part executes after each iteration?,Update,Condition,Initialization,Compilation,1
+5,Which loop part decides termination?,Condition,Update,Body,Variable,1
+5,Can break be used in switch and loops?,Yes,No,Only loops,Only switch,1
+5,What is output of continue in loop?,Skip iteration part,Stop all loops,Compile error,Reset loop,1
+5,What is accumulator variable used for?,Store running totals,Stop loops,Compile code,Input values,1
+5,What is counter variable used for?,Track iterations,Store objects,Compile programs,Read input,1
+5,Which loop works best when user input controls termination?,while,for,switch,array,1
+5,What is a common use of nested loops?,Patterns and tables,Compilation,Networking,Inheritance,1
+5,What happens if update is missing in loop?,Possible infinite loop,Compile error,Stops immediately,Deletes variable,1
+5,Which loop structure repeats until condition becomes false?,while,if,switch,class,1
+5,Can loops contain if statements?,Yes,No,Only nested loops,Never,1
+5,What is output of for(int i=0;i<0;i++) ?,No iteration,1 iteration,Infinite loop,Compile error,1
+5,Which loop is easiest for traversing ranges?,for,switch,if,class,1
+5,Which statement can terminate program manually inside loop?,break,System.exit(),continue,return,2
+5,What is the purpose of repetition structures?,Repeat tasks,Create classes,Store files,Manage memory,1
+5,What is the result of endless loop without break?,Infinite execution,Compilation error,Automatic stop,Crash always,1
+5,Which chapter concept repeats statements multiple times?,Loops,Arrays,Classes,Objects,1
+5,What is output of for(int i=1;i<=3;i++) ?,3 iterations,2 iterations,4 iterations,Infinite loop,1
+5,Which loop is best when number of repetitions is unknown?,while,for,switch,array,1
+5,What is output of do{ }while(false); ?,Runs once,Never runs,Compile error,Infinite loop,1
+5,Which loop executes update expression automatically?,for,while,do-while,if,1
+5,What happens if break executes inside loop?,Loop terminates,Loop restarts,Condition changes,Nothing,1
+5,What happens after continue executes?,Next iteration begins,Loop ends,Program stops,Condition removed,1
+5,Which loop structure can omit initialization section?,for,while,do-while,All of these,4
+5,Which loop structure can omit update section?,for,while,do-while,All of these,4
+5,Which loop structure can omit condition section creating infinite loop?,for,while,do-while,All of these,1
+5,What is output of while(true){break;} ?,One iteration,Infinite loop,Compile error,No execution,1
+5,Which variable usually changes each iteration?,Loop control variable,Object variable,Class variable,Package variable,1
+5,What is loop body?,Statements repeated,Condition section,Variable declaration,Import statement,1
+5,How many conditions exist in standard for loop?,1,2,3,4,1
+5,Which loop is commonly used for arrays traversal?,for,switch,if,class,1
+5,What is output of for(;;) ?,Infinite loop,Compile error,Zero iterations,One iteration,1
+5,Can continue be used in nested loops?,Yes,No,Only while loops,Only for loops,1
+5,What does nested loop complexity usually increase?,Execution time,Memory automatically,Compilation speed,None,1
+5,Which loop is useful for validation until correct input?,while,if,switch,class,1
+5,What is output of int i=0; while(i<3){i++;} ?,3 iterations,2 iterations,Infinite loop,1 iteration,1
+5,Which loop is most suitable for fixed repetitions?,for,while,do-while,switch,1
+5,Which statement skips only one iteration not entire loop?,continue,break,exit,stop,1
+5,What is the main danger of infinite loops?,Program never stops,Compilation failure,Database corruption,Memory always zero,1
+5,What is output of do-while with false condition initially?,Executes once,Never executes,Compile error,Infinite loop,1
+5,What does i+=2 do in loop update?,Increase by 2,Decrease by 2,Multiply by 2,Reset value,1
+5,Which operator commonly updates loop variable upward?,++,--,!=,==,1
+5,Which operator commonly updates loop variable downward?,--,++,+=,*=,1
+5,Which loop type checks condition first?,Entry-controlled,Exit-controlled,Recursive,None,1
+5,Which loop type checks condition after execution?,Exit-controlled,Entry-controlled,Recursive,None,1
+5,Can loops contain other loops and conditions?,Yes,No,Only loops,Never,1
+5,What is output of for(int i=0;i<5;i+=2) ?,3 iterations,5 iterations,2 iterations,Infinite loop,1
+5,Which loop statement is generally shortest syntax?,for,while,do-while,switch,1
+5,What is purpose of loop variable initialization?,Set starting point,Stop loop,Create object,Compile code,1
+5,What happens if condition never becomes false?,Infinite execution,Compilation error,Auto stop,No issue,1
+5,Which loop is commonly used for menu repetition?,do-while,if,switch,array,1
+5,What is output of continue inside nested loop?,Skips current iteration of nearest loop,Ends all loops,Compile error,Stops program,1
+5,Which statement exits method completely?,return,continue,break,repeat,1
+5,Which keyword helps leave loop early?,break,if,new,class,1
+5,Which structure repeatedly executes code blocks?,Loops,Arrays,Packages,Objects,1
+5,Can loop conditions use logical operators?,Yes,No,Only integers,Only booleans,1
+5,What is output of while(i!=0) if i starts 0?,No iterations,Infinite loop,One iteration,Compile error,1
+5,Which loop concept helps pattern printing?,Nested loops,Arrays,Classes,Packages,1
+5,Which loop may be preferred when menu must appear at least once?,do-while,while,for,switch,1
+5,What is loop termination condition?,Condition causing stop,Starting value,Object creation,Compilation stage,1
+5,Which loop is generally easiest for counters?,for,switch,if,class,1
+5,What happens when continue executes before update in while loop?,Risk of infinite loop,Stops loop,Compilation error,No effect,1
+5,Which loop feature avoids repetitive code writing?,Iteration,Inheritance,Encapsulation,Polymorphism,1
+5,What is the result of removing condition from while loop?,Compile error normally,Infinite loop always,One iteration,No execution,1
+5,What is purpose of loops in programming?,Automate repetition,Create objects,Store classes,Import packages,1
+5,Which chapter mainly teaches repetition structures?,Loops,Strings,Methods,Objects,1
+5,Which loop concept is heavily used in algorithms?,Iteration,Compilation,Inheritance,Packaging,1
+6,What is a method in Java?,Reusable block of code,Variable type,Loop structure,Package,1
+6,Why are methods used?,Code reusability,Increase RAM,Create hardware,Store files,1
+6,Which keyword indicates method returns nothing?,void,null,empty,return,1
+6,Which method is entry point of Java program?,main(),start(),run(),execute(),1
+6,What is method declaration?,Defining method structure,Calling method,Ending program,Importing package,1
+6,What is method invocation?,Calling a method,Creating class,Declaring variable,Creating package,1
+6,Which symbol is used after method name for parameters?,(),{},[],<>,1
+6,What are parameters?,Variables in method definition,Output values,Objects only,Packages,1
+6,What are arguments?,Values passed to method,Method names,Classes,Return values,1
+6,Can methods return values?,Yes,No,Only void methods,Only constructors,1
+6,Which keyword returns value from method?,return,give,output,break,1
+6,What happens after return executes?,Method ends,Loop starts,Object created,Nothing,1
+6,What is formal parameter?,Parameter in method declaration,Parameter during call,Loop variable,Object variable,1
+6,What is actual parameter?,Argument passed during call,Method name,Return value,Loop counter,1
+6,Can methods call other methods?,Yes,No,Only static methods,Only void methods,1
+6,What is method signature?,Name plus parameters,Only method name,Return type only,Class name,1
+6,Which feature allows same method name with different parameters?,Overloading,Overriding,Inheritance,Encapsulation,1
+6,What is method overloading?,Multiple methods same name different parameters,Same method copied,Calling methods twice,Inheritance feature,1
+6,Can overloaded methods differ only by return type?,No,Yes,Sometimes,Only static methods,1
+6,Which access modifier allows use everywhere?,public,private,protected,default,1
+6,Which keyword makes method belong to class not object?,static,void,new,class,1
+6,Which method belongs to object instances?,Non-static method,Static method,Constructor only,Main method,1
+6,What is local variable scope?,Inside method/block only,Whole class,Whole package,Global,1
+6,Can local variables be used outside method?,No,Yes,Only public ones,Only static ones,1
+6,What is variable scope?,Region where variable accessible,Variable size,Memory amount,Compiler rule,1
+6,What happens if same variable name exists locally and globally?,Local hides global,Compile error,Program stops,Both merge,1
+6,Which concept divides program into smaller tasks?,Modularization,Inheritance,Compilation,Casting,1
+6,What type of parameter passing Java uses?,Pass by value,Pass by reference,Both,None,1
+6,What happens when primitive passed to method?,Copy sent,Original changed directly,Deleted,Converted,1
+6,What is return type of method returning integer?,int,void,double,char,1
+6,Can void method use return without value?,Yes,No,Only static methods,Only overloaded methods,1
+6,Which keyword creates object to call instance method?,new,class,create,method,1
+6,Can static methods call instance variables directly?,No,Yes,Always,Sometimes,1
+6,What is recursive method?,Method calling itself,Method calling object,Nested loop,Constructor,1
+6,Why use recursion?,Solve repetitive problems,Increase RAM,Compile faster,Avoid methods,1
+6,What is base case in recursion?,Stopping condition,Starting condition,Loop variable,Return type,1
+6,Without base case recursion causes?,Infinite calls,Compile error,Auto stop,Nothing,1
+6,Can methods return objects?,Yes,No,Only strings,Only arrays,1
+6,What is benefit of methods?,Reduce repetition,Increase typing,Increase memory,Reduce compiler speed,1
+6,Can methods have multiple parameters?,Yes,No,Maximum 2 only,Only static methods,1
+6,Parameter order matters in method calls?,Yes,No,Only strings,Never,1
+6,What is output of method call?,Depends on method,None always,Compile error,Loop,1
+6,Can methods be overloaded with different parameter count?,Yes,No,Only same count,Never,1
+6,Which method modifier prevents modification in subclasses?,final,static,void,public,1
+6,Can constructors be overloaded?,Yes,No,Only one constructor allowed,Never,1
+6,What is method body?,Statements inside method,Method name,Parameters only,Class name,1
+6,Which chapter concept improves maintainability?,Methods,Loops,Strings,Arrays,1
+6,What is cohesion in modular programming?,Related tasks together,Random methods,Large classes,More variables,1
+6,What is coupling ideally in methods?,Low,High,None,Maximum,1
+6,Methods mainly help make code?,Reusable and organized,Longer,Harder,Slower,1
+6,What is method header composed of?,Return type name parameters,Only method name,Only parameters,Class name,1
+6,Can methods exist outside classes in Java?,No,Yes,Only static methods,Sometimes,1
+6,Which keyword allows one method to call another in same class?,No keyword needed,call,invoke,method,1
+6,What is output of recursive method without stopping condition?,Stack overflow,Compile error,Normal termination,Auto fix,1
+6,Which memory stores method calls?,Stack,Heap,ROM,Cache,1
+6,What happens when method finishes execution?,Control returns to caller,Program stops,Object deleted,Memory resets,1
+6,Can methods have zero parameters?,Yes,No,Only constructors,Never,1
+6,Which type of method returns no value?,void method,int method,recursive method,overloaded method,1
+6,Can method names be same with different parameter types?,Yes,No,Only static methods,Only constructors,1
+6,Which method type belongs to objects?,Instance methods,Static methods,Main methods,Abstract methods,1
+6,How are arguments matched to parameters?,By order and type,By memory,Alphabetically,Randomly,1
+6,Which statement correctly calls method test()?,test();,call test();,run(test);,method test();,1
+6,What is function of return statement?,Send value back,Create variable,Stop compiler,Declare method,1
+6,Can a method return multiple values directly?,No,Yes,Only arrays,Never,1
+6,What is parameter list separator?,Comma,Semicolon,Colon,Period,1
+6,Can overloaded methods have different access modifiers?,Yes,No,Only public,Never,1
+6,Which keyword stops recursion?,Base condition,break,stop,continue,1
+6,What is recursion useful for?,Divide problems into smaller parts,Increase speed always,Replace loops entirely,Store variables,1
+6,What happens when local variable not initialized?,Compilation error,Zero assigned,Null assigned,Ignored,1
+6,Which variable lifetime lasts during method execution?,Local variable,Global variable,Static variable,Object variable,1
+6,Can methods return boolean values?,Yes,No,Only integers,Only objects,1
+6,Which return type should be used for true/false output?,boolean,int,double,char,1
+6,Can methods accept arrays as parameters?,Yes,No,Only static methods,Only objects,1
+6,Can methods return arrays?,Yes,No,Only strings,Only constructors,1
+6,What is helper method?,Method supporting other methods,Constructor,Object,Package,1
+6,What is utility of modular programming?,Smaller manageable code,More memory use,Longer classes,Fewer methods,1
+6,Which keyword makes variable accessible inside whole class?,Instance variable,None,class,void,1
+6,Can two methods have same name and same parameters?,No,Yes,Only private methods,Sometimes,1
+6,Method overloading is resolved at?,Compile time,Runtime,Execution end,Loading time,1
+6,Recursive methods consume what for each call?,Stack memory,Heap memory,ROM,None,1
+6,What is direct recursion?,Method calls itself,Method calls another method,Loop recursion,Object recursion,1
+6,What is indirect recursion?,Methods call each other,Method calls itself,Object loops,Constructor loops,1
+6,Can constructors use this() call?,Yes,No,Only static constructors,Never,1
+6,What is purpose of this keyword in methods?,Reference current object,Create loop,Stop recursion,Import package,1
+6,Can static methods access static variables?,Yes,No,Sometimes,Only private ones,1
+6,Can instance methods access static variables?,Yes,No,Never,Only constructors,1
+6,What is scope of parameter variables?,Inside method only,Whole class,Whole package,Global,1
+6,What happens if method call misses required parameter?,Compilation error,Ignored,Auto fill,Runtime fix,1
+6,Can recursion replace loops in some problems?,Yes,No,Never,Only arrays,1
+6,Which problem commonly uses recursion?,Factorial,Printing string,Variable declaration,Compilation,1
+6,What is output of factorial recursion without base case?,Infinite recursion,Correct answer,Compile error,Null output,1
+6,Which method type usually improves readability?,Small focused methods,Large methods,None,Only recursive,1
+6,What is cohesion in methods?,Single responsibility,Many tasks together,Large classes,Long parameters,1
+6,Methods improve debugging because code becomes?,Modular,Longer,Random,Hidden,1
+6,What is best practice for method names?,Meaningful names,Single letters,Numbers only,Random names,1
+6,Can methods belong to interfaces?,Yes,No,Only classes,Never,1
+6,What is abstraction benefit of methods?,Hide complexity,Increase loops,Increase RAM,Reduce variables,1
+6,Methods mainly support which programming idea?,Modularity,Networking,Compilation,Storage,1
+6,Which chapter concept breaks program into reusable units?,Methods,Loops,Arrays,Strings,1
+7,What is an array in Java?,Collection of same type elements,Single variable,Method type,Loop structure,1
+7,Which symbol is used for array declaration?,[],(),{},<>,1
+7,Which statement declares integer array?,int[] arr,int arr,char[] arr,double arr,1
+7,Which keyword allocates memory for arrays?,new,class,array,create,1
+7,Which statement creates array of size 5?,new int[5],int[5],array int[5],create int[5],1
+7,Array indexing starts from?,0,1,-1,Depends on compiler,1
+7,What is first index of array?,0,1,-1,Size-1,1
+7,What is last index formula?,length-1,length,length+1,0,1
+7,What happens if invalid index accessed?,Exception,Returns 0,Returns null,Ignored,1
+7,Which exception occurs for invalid index?,ArrayIndexOutOfBoundsException,NullPointerException,IOException,ArithmeticException,1
+7,Can arrays store duplicate values?,Yes,No,Only strings,Only integers,1
+7,Can arrays store mixed data types?,No,Yes,Sometimes,Only objects,1
+7,Which property gives array size?,length,size(),count(),getSize(),1
+7,What is size of int[10] array?,10,9,11,0,1
+7,Which loop commonly traverses arrays?,for,if,switch,class,1
+7,What is traversing array?,Visiting elements one by one,Creating array,Deleting array,Sorting array,1
+7,Which index accesses first element?,0,1,length,-1,1
+7,Which index accesses second element?,1,2,0,length,1
+7,Can arrays be initialized during declaration?,Yes,No,Only strings,Never,1
+7,Which syntax initializes array directly?,{1,2,3},(1,2,3),[1,2,3],<1,2,3>,1
+7,What is default int array value?,0,null,1,-1,1
+7,What is default boolean array value?,false,true,null,0,1
+7,What is default object array value?,null,0,false,blank,1
+7,What is default char array value?,Unicode zero,A,false,null,1
+7,Can array size change after creation?,No,Yes,Sometimes,Only strings,1
+7,Which array type stores decimal values?,double[],char[],boolean[],String,1
+7,Which array type stores text objects?,String[],char[],int[],double[],1
+7,Can arrays contain objects?,Yes,No,Only primitives,Only strings,1
+7,What is enhanced for loop also called?,for-each loop,while loop,nested loop,recursive loop,1
+7,Which loop simplifies array traversal?,for-each,if,switch,class,1
+7,Can array elements be modified?,Yes,No,Only objects,Never,1
+7,What is array variable storing?,Reference address,Actual values only,Compiler info,Loop count,1
+7,Which keyword creates array object?,new,class,create,array,1
+7,What is output type of arr.length?,int,double,char,boolean,1
+7,Which operation finds largest element?,Traversal,Compilation,Inheritance,Casting,1
+7,Can arrays be passed to methods?,Yes,No,Only static methods,Never,1
+7,How are arrays passed in Java?,Reference value copied,Direct memory,Pointer only,None,1
+7,Can methods return arrays?,Yes,No,Only objects,Never,1
+7,What is linear search used for?,Finding element,Sorting array,Deleting values,Compiling code,1
+7,What is array element position called?,Index,Pointer,Object,Scope,1
+7,Which loop best supports index access?,for,while only,switch,class,1
+7,What happens if array reference is null?,NullPointerException,Compile error,Returns 0,Nothing,1
+7,Can arrays be copied?,Yes,No,Only manually,Never,1
+7,Which utility method copies arrays?,System.arraycopy(),copyArray(),cloneArray(),Array.copy(),1
+7,What is command line argument storage type?,String[],char[],int[],double[],1
+7,Which parameter stores command line arguments?,String[] args,int args,char args,array args,1
+7,What is purpose of arrays?,Store multiple related values,Create methods,Replace loops,Compile programs,1
+7,Arrays mainly improve?,Data organization,Network speed,RAM size,Compiler speed,1
+7,Which chapter introduces grouped storage?,Arrays,Methods,Loops,Strings,1
+7,Can arrays have zero size?,Yes,No,Only objects,Never,1
+7,Which statement creates array with values immediately?,int[] a={1,2,3};,int a=(1,2,3);,array a=[1,2,3];,int a<1,2,3>;,1
+7,What is output of array length for int[] arr=new int[8] ?,8,7,9,0,1
+7,Which loop variable usually represents array index?,i,index only,array,loop,1
+7,What is output of arr[0] for int[] arr={5,10,15} ?,5,10,15,0,1
+7,What is output of arr[2] for int[] arr={5,10,15} ?,15,10,5,Error,1
+7,What happens when accessing arr[5] in size 5 array?,Exception,Returns 0,Returns null,Ignored,1
+7,Can arrays contain negative numbers?,Yes,No,Only integers,Never,1
+7,Which traversal visits all elements?,Loop from 0 to length-1,Only first element,Random access,None,1
+7,What is accumulator pattern in arrays?,Running total,Sorting only,Searching only,Copying only,1
+7,What is purpose of counter variable in traversal?,Track occurrences,Store arrays,Compile code,Delete elements,1
+7,Which algorithm checks each element sequentially?,Linear search,Binary search,Quick sort,Hashing,1
+7,Binary search requires array to be?,Sorted,Unsorted,Empty,2D,1
+7,Which method returns duplicate copy of array object?,clone(),copy(),duplicate(),replicate(),1
+7,What is output of new int[3] default values?,0 0 0,null null null,1 1 1,Error,1
+7,What is output of new boolean[2] defaults?,false false,true true,null null,Error,1
+7,Can array references point to same array?,Yes,No,Only objects,Never,1
+7,What happens when two references share same array?,Changes affect both,Separate copies created,Compile error,None,1
+7,Which array operation finds smallest element?,Traversal,Compilation,Inheritance,Casting,1
+7,How many dimensions does single-dimensional array have?,1,2,0,Unlimited,1
+7,Can array size be user input?,Yes,No,Only constants,Never,1
+7,What does arr.length return?,Number of elements,Last index,Memory size,Address,1
+7,Which statement is valid enhanced for syntax?,for(int x:arr),for(arr:x),foreach(arr),loop(arr),1
+7,Enhanced for loop provides direct access to?,Elements,Indexes only,Memory locations,None,1
+7,Can enhanced for loop easily modify original elements?,No,Yes,Always,Only objects,1
+7,What is copying array element by element called?,Manual copy,Cloning,Traversal,Recursion,1
+7,Which utility class contains array helpers?,Arrays,ArrayUtils,System,Math,1
+7,Which method sorts arrays?,Arrays.sort(),sortArray(),array.sort(),System.sort(),1
+7,Which package contains Arrays class?,java.util,java.lang,java.io,java.net,1
+7,Which method converts array to printable string?,Arrays.toString(),array.print(),printArray(),toArray(),1
+7,What is output type of Arrays.toString()?,String,int,array,char,1
+7,Can arrays be empty?,Yes,No,Only objects,Never,1
+7,What is sparse array?,Mostly unused elements,Fully filled array,Sorted array,Character array,1
+7,What is dense array?,Mostly filled array,Mostly empty array,2D array,Sorted array,1
+7,Which operation inserts value at specific index manually?,Shift elements,Compile,Sort,Clone,1
+7,Which operation removes value manually?,Shift elements left,Delete keyword,remove(),erase(),1
+7,Can arrays shrink automatically?,No,Yes,Sometimes,Only strings,1
+7,What is one disadvantage of arrays?,Fixed size,Slow access,No indexing,No loops,1
+7,What is one advantage of arrays?,Fast indexed access,Dynamic size,No memory use,No declaration,1
+7,Which chapter topic stores marks of 100 students efficiently?,Arrays,Methods,Loops,Strings,1
+7,What is output of int[] a=new int[0]; a.length ?,0,1,Error,-1,1
+7,Can arrays store null values?,Yes for references,No,Never,Only primitives,1
+7,Which array type stores characters efficiently?,char[],String[],int[],boolean[],1
+7,What is jagged array?,Arrays with varying inner sizes,Single array,Sorted array,Character array,1
+7,Can String arrays store names?,Yes,No,Only characters,Never,1
+7,What happens after array object loses references?,Eligible for garbage collection,Compile error,Infinite loop,Nothing,1
+7,Which memory typically stores array objects?,Heap,Stack,ROM,Cache,1
+7,Array processing usually requires what concept?,Loops,Inheritance,Networking,Packages,1
+7,Which chapter concept helps manage many similar values?,Arrays,Methods,Exceptions,Classes,1
+7,What is array initialization?,Assigning initial values,Deleting array,Sorting array,Compiling array,1
+7,Which chapter mainly introduces indexed collections?,Single-Dimensional Arrays,Methods,Loops,Strings,1
+8,What is a multidimensional array?,Array containing arrays,Single variable,Loop type,Method type,1
+8,Which array is commonly called 2D array?,Matrix array,Character array,String array,Boolean array,1
+8,Which syntax declares 2D integer array?,int[][] arr,int[] arr,int arr[][][],array int,1
+8,Which keyword allocates multidimensional arrays?,new,class,array,create,1
+8,How many indexes are needed for 2D arrays?,2,1,3,Unlimited,1
+8,What does first index usually represent?,Row,Column,Value,Object,1
+8,What does second index usually represent?,Column,Row,Array size,Method,1
+8,Array int[3][4] contains how many rows?,3,4,7,12,1
+8,Array int[3][4] contains how many columns?,4,3,12,7,1
+8,Total elements in int[3][4] ?,12,7,3,4,1
+8,What is first element index in 2D array?,[0][0],[1][1],[0][1],[1][0],1
+8,Which loop structure commonly traverses 2D arrays?,Nested loops,Single if,Switch,Recursion only,1
+8,Can multidimensional arrays be initialized directly?,Yes,No,Only objects,Never,1
+8,Which syntax initializes 2D array values?,{{1,2},{3,4}},[1,2][3,4],(1,2)(3,4),<1,2>,1
+8,Which property gives number of rows?,arr.length,arr.size(),arr.row(),arr.rows,1
+8,Which property gives columns of row i?,arr[i].length,arr.length,arr.columns(),arr.size,1
+8,Can rows have different sizes?,Yes,No,Only strings,Never,1
+8,What is jagged array?,Rows with different lengths,Single row array,Sorted array,Character array,1
+8,What exception occurs for invalid index?,ArrayIndexOutOfBoundsException,IOException,NullPointerException,ArithmeticException,1
+8,What is default int value in multidimensional arrays?,0,null,1,-1,1
+8,Can multidimensional arrays store objects?,Yes,No,Only primitives,Never,1
+8,Which loop variable often represents row?,i,j,k,x,1
+8,Which loop variable often represents column?,j,i,k,x,1
+8,Which operation finds row sum?,Traverse columns of row,Sort array,Clone array,Compile array,1
+8,Which operation finds column sum?,Traverse rows of column,Sort rows,Clone array,Compile,1
+8,Which data structure resembles spreadsheet tables?,2D arrays,Methods,Strings,Loops,1
+8,Can multidimensional arrays have more than 2 dimensions?,Yes,No,Maximum 2 only,Never,1
+8,What is int[][][] called?,3D array,Jagged array,Single array,Object array,1
+8,Which memory usually stores array objects?,Heap,Stack,ROM,Register,1
+8,Can arrays be passed to methods?,Yes,No,Only 1D arrays,Never,1
+8,Can methods return multidimensional arrays?,Yes,No,Only objects,Never,1
+8,What is matrix traversal?,Visiting each element,System call,Compilation,Object creation,1
+8,What is output rows for int[5][2] ?,5,2,10,7,1
+8,What is output columns for int[5][2] ?,2,5,10,7,1
+8,What is total elements in int[2][2] ?,4,2,8,1,1
+8,What does arr[1][2] access?,Row 1 Column 2,Row 2 Column 1,Third row,Invalid always,1
+8,Can nested loops process matrices?,Yes,No,Only recursion,Never,1
+8,What is matrix addition based on?,Same dimensions,Different dimensions,Sorting,Strings,1
+8,What is matrix multiplication dependent on?,Compatible dimensions,Equal rows only,Equal columns only,None,1
+8,Which structure best models seating charts?,2D arrays,Strings,Methods,Classes,1
+8,Can multidimensional arrays be sparse?,Yes,No,Only jagged,Never,1
+8,What is sparse matrix?,Mostly zero values,Fully filled matrix,Character matrix,Sorted matrix,1
+8,What is dense matrix?,Mostly filled values,Empty matrix,Sorted matrix,Character matrix,1
+8,Which chapter introduces matrix operations?,Multidimensional Arrays,Methods,Loops,Strings,1
+8,Can arrays inside arrays have different lengths?,Yes,No,Never,Only objects,1
+8,Which array dimension increases complexity?,Higher dimensions,Lower dimensions,None,Strings,1
+8,Which concept mainly supports matrix processing?,Nested loops,Inheritance,Packages,Interfaces,1
+8,Can multidimensional arrays contain primitive types?,Yes,No,Only objects,Never,1
+8,What is purpose of multidimensional arrays?,Store tabular data,Create loops,Compile programs,Manage packages,1
+8,Which chapter expands arrays beyond single indexing?,Multidimensional Arrays,Methods,Loops,Classes,1
+8,What does arr.length return in 2D arrays?,Number of rows,Number of columns,Total elements,Memory size,1
+8,What does arr[0].length return?,Columns in first row,Rows count,Total elements,Memory address,1
+8,What is output of int[][] a=new int[2][3]; a.length ?,2,3,6,0,1
+8,What is output of int[][] a=new int[2][3]; a[0].length ?,3,2,6,0,1
+8,Which nested loop usually controls rows?,Outer loop,Inner loop,Both equally,None,1
+8,Which nested loop usually controls columns?,Inner loop,Outer loop,None,Both equally,1
+8,What is row-major traversal?,Process row by row,Column by column,Random order,Diagonal only,1
+8,What is column-major traversal?,Process column by column,Row by row,Diagonal only,Random order,1
+8,What is output of arr[0][1] in {{1,2},{3,4}} ?,2,1,3,4,1
+8,What is output of arr[1][0] in {{1,2},{3,4}} ?,3,2,1,4,1
+8,Can multidimensional arrays be cloned?,Yes,No,Only jagged arrays,Never,1
+8,What happens if row index exceeds limit?,Exception,Returns 0,Returns null,Ignored,1
+8,What happens if column index exceeds limit?,Exception,Returns 0,Returns null,Ignored,1
+8,Which algorithm operation is common on matrices?,Transpose,Hashing,Inheritance,Compilation,1
+8,What is matrix transpose?,Swap rows and columns,Reverse rows only,Delete columns,Sort matrix,1
+8,For square matrix transpose size remains?,Same,Double,Half,Zero,1
+8,Which matrix has same rows and columns?,Square matrix,Jagged matrix,Sparse matrix,Rectangular matrix,1
+8,What is rectangular matrix?,Rows and columns differ,Rows equal columns,One row only,One column only,1
+8,Which matrix contains one row?,Row matrix,Column matrix,Square matrix,Sparse matrix,1
+8,Which matrix contains one column?,Column matrix,Row matrix,Dense matrix,Square matrix,1
+8,Which matrix diagonal elements have same row and column index?,Main diagonal,Secondary diagonal,Random elements,Outer elements,1
+8,What are diagonal indexes in matrix?,i==j,i>j,i<j,i+j,1
+8,What operation requires nested loops over rows and columns?,Matrix printing,Variable declaration,Compilation,Casting,1
+8,Can each row in jagged array have unique length?,Yes,No,Never,Only strings,1
+8,Which syntax creates jagged array rows manually?,Assign each row separately,Single declaration only,Impossible,Only loops,1
+8,What is memory usage of larger dimensions?,Higher,Lower,Same,None,1
+8,Can 2D arrays represent game boards?,Yes,No,Only strings,Never,1
+8,Can 2D arrays represent images?,Yes,No,Only objects,Never,1
+8,Which operation counts all elements?,Nested traversal,Single loop,if statement,Method call,1
+8,How many loops are generally needed for full 2D traversal?,2 nested loops,1 loop,3 loops,None,1
+8,Can multidimensional arrays contain null rows?,Yes,No,Never,Only objects,1
+8,What happens if accessing null row array?,NullPointerException,Compile error,Returns 0,Ignored,1
+8,What is output total elements for int[4][5] ?,20,9,4,5,1
+8,Which operation compares matrix dimensions?,Rows and columns check,Sorting,Searching,Compilation,1
+8,What is purpose of arr[i][j] notation?,Access specific element,Create method,Compile matrix,Delete element,1
+8,Can matrices be filled using Scanner input?,Yes,No,Only files,Never,1
+8,Which chapter concept models tables and grids?,Multidimensional Arrays,Methods,Strings,Loops,1
+8,Which dimension changes while traversing row?,Column index,Row index,Both,None,1
+8,Which dimension changes while traversing column?,Row index,Column index,None,Both,1
+8,Can enhanced for loops traverse 2D arrays?,Yes,No,Only 1D arrays,Never,1
+8,What is one drawback of multidimensional arrays?,More complexity,No indexing,No loops,No memory use,1
+8,Which matrix operation adds corresponding elements?,Matrix addition,Transpose,Multiplication,Search,1
+8,What is requirement for matrix addition?,Equal dimensions,Equal rows only,Equal columns only,None,1
+8,Which operation often uses triple nested loops?,Matrix multiplication,Sorting,Searching,Printing,1
+8,What does a 3x3 matrix contain?,9 elements,6 elements,3 elements,12 elements,1
+8,Can multidimensional arrays store strings?,Yes,No,Only primitives,Never,1
+8,Which structure stores classroom seating positions effectively?,2D arrays,Methods,Strings,Packages,1
+8,What is purpose of multidimensional arrays overall?,Store structured/tabular data,Replace methods,Compile faster,Reduce memory,1
+8,Which chapter extends arrays into grids and matrices?,Multidimensional Arrays,Loops,Methods,Objects,1
+8,Which concept is most important with multidimensional arrays?,Nested loops,Inheritance,Interfaces,Packages,1
+9,What is a class in Java?,Blueprint for objects,Instance of object,Loop structure,Method type,1
+9,What is an object?,Instance of a class,Blueprint only,Method call,Package,1
+9,Which keyword creates objects?,new,class,object,create,1
+9,Which symbol accesses object members?,.,:,#,->,1
+9,What does a class contain?,Fields and methods,Loops only,Variables only,Comments,1
+9,What is an instance variable?,Variable belonging to object,Loop variable,Method parameter,Static block,1
+9,What is a method in class?,Behavior of object,Variable type,Compiler tool,Package name,1
+9,Which method initializes objects?,Constructor,main(),run(),start(),1
+9,What is constructor name rule?,Same as class name,Any name,Starts with init,Ends with class,1
+9,Do constructors have return types?,No,Yes,Only void,Only int,1
+9,What happens if constructor omitted?,Default constructor created,Compile error,Runtime error,Object fails,1
+9,Which keyword refers current object?,this,super,new,class,1
+9,Can classes have multiple constructors?,Yes,No,Only one,Never,1
+9,What is constructor overloading?,Multiple constructors with different parameters,Copying constructors,Inheritance,Looping constructors,1
+9,What is encapsulation?,Wrapping data and methods together,Inheritance,Compilation,Loop nesting,1
+9,Which access modifier restricts access most?,private,public,protected,default,1
+9,Which modifier allows access everywhere?,public,private,protected,default,1
+9,What is object state represented by?,Fields/variables,Methods,Packages,Loops,1
+9,What is object behavior represented by?,Methods,Fields,Packages,Comments,1
+9,Can objects communicate via methods?,Yes,No,Only constructors,Never,1
+9,Which memory stores objects?,Heap,Stack,ROM,Cache,1
+9,Where are local variables stored?,Stack,Heap,ROM,Cache,1
+9,What is reference variable?,Stores object address,Stores value only,Loop variable,Constant,1
+9,Can multiple references point same object?,Yes,No,Only arrays,Never,1
+9,What happens when object reference becomes null?,Object may be garbage collected,Compile error,Program ends,Nothing,1
+9,Which operator compares references?,==,equals(),compareTo(),!=,1
+9,Which method usually compares object content?,equals(),==,compare(),same(),1
+9,Can objects contain objects?,Yes,No,Only arrays,Never,1
+9,What is composition?,Object contains another object,Loop nesting,Inheritance only,Method chaining,1
+9,What does null mean?,No object reference,Object deleted,Integer zero,False,1
+9,Can constructors be private?,Yes,No,Always public,Never,1
+9,What is object instantiation?,Creating object,Deleting object,Compiling object,Looping object,1
+9,Which keyword invokes parent constructor?,super,this,parent,extends,1
+9,Can class exist without objects?,Yes,No,Never,Only interfaces,1
+9,Can objects exist without class?,No,Yes,Sometimes,Only arrays,1
+9,What is UML used for?,Design classes visually,Compile code,Run programs,Store objects,1
+9,UML class diagram mainly shows?,Attributes and methods,Loops,Packages,Arrays,1
+9,What is attribute in UML?,Variable/field,Loop,Method call,Compiler,1
+9,What is operation in UML?,Method,Variable,Package,Object,1
+9,Can instance variables have default values?,Yes,No,Only int,Never,1
+9,Default int instance variable value?,0,1,null,-1,1
+9,Default boolean instance variable value?,false,true,null,0,1
+9,Default object reference value?,null,0,false,blank,1
+9,What is garbage collection?,Automatic memory cleanup,Manual deletion,Compilation,Loop removal,1
+9,Which method is called automatically on object creation?,Constructor,main(),run(),equals(),1
+9,What is anonymous object?,Object without reference,Object with two references,Null object,Default object,1
+9,Can methods return objects?,Yes,No,Only arrays,Never,1
+9,Can objects be passed to methods?,Yes,No,Only strings,Never,1
+9,Which concept hides implementation details?,Encapsulation,Inheritance,Looping,Casting,1
+9,What is mutator method?,Setter method,Getter method,Constructor,Static method,1
+9,What is accessor method?,Getter method,Setter method,Loop method,Static method,1
+9,What is setter purpose?,Modify field values,Read values,Compile code,Create arrays,1
+9,What is getter purpose?,Access values,Delete values,Loop control,Compile,1
+9,Can classes contain static variables?,Yes,No,Only methods,Never,1
+9,Static members belong to?,Class,Object only,Method,Package,1
+9,Instance members belong to?,Objects,Class,Compiler,Package,1
+9,Can static methods access instance variables directly?,No,Yes,Always,Sometimes,1
+9,Can instance methods access static variables?,Yes,No,Never,Only constructors,1
+9,What is object-oriented programming based on?,Objects,Loops,Arrays,Packages,1
+9,Which concept allows code reuse through classes?,OOP,Looping,Casting,Sorting,1
+9,Can classes be empty?,Yes,No,Never,Only interfaces,1
+9,What is class body enclosed in?,{},(),[],<>,1
+9,What is field another name for?,Attribute,Loop,Object,Package,1
+9,Can objects call their own methods?,Yes,No,Only constructors,Never,1
+9,Which keyword prevents external direct field access?,private,public,static,new,1
+9,Can constructors call other constructors?,Yes using this(),No,Never,Only static,1
+9,What does this() call?,Another constructor in same class,Parent constructor,Method,Object,1
+9,Can object references be copied?,Yes,No,Never,Only arrays,1
+9,What happens when assigning one object reference to another?,Both point same object,Copy object automatically,Compile error,Delete old object,1
+9,What is object identity?,Reference uniqueness,Object size,Object speed,Object type,1
+9,Can classes contain main method?,Yes,No,Only one class,Never,1
+9,What is cohesion in class design?,Related responsibilities together,Random methods,Large classes,More variables,1
+9,What is low coupling?,Less dependency between classes,More dependencies,No classes,Large loops,1
+9,What is toString() commonly used for?,Readable object output,Delete objects,Compare objects,Looping,1
+9,Can one source file contain multiple classes?,Yes,No,Never,Only packages,1
+9,Which class member stores data?,Field,Method,Constructor,Package,1
+9,Which class member performs actions?,Method,Field,Package,Import,1
+9,Can constructors be overloaded with different parameter counts?,Yes,No,Never,Only private,1
+9,What is object creation syntax?,ClassName obj = new ClassName();,new object();,object Class();,Class object;,1
+9,What is aggregation?,Has-a relationship,Object deletion,Loop relation,Sorting relation,1
+9,Which memory issue occurs with too many objects?,Heap overflow,Stack overflow,Compile error,None,1
+9,Can classes inherit later chapters concepts?,Yes,No,Never,Only interfaces,1
+9,What is instance creation called?,Instantiation,Compilation,Traversal,Initialization only,1
+9,What is abstraction related to?,Showing essentials hiding details,Only hiding variables,Loop control,Sorting,1
+9,Can methods inside same class call each other?,Yes,No,Only static,Never,1
+9,What is object lifecycle started by?,Instantiation,Garbage collection,Compilation,Deletion,1
+9,Can classes model real world entities?,Yes,No,Only arrays,Never,1
+9,What is purpose of objects?,Represent entities with state and behavior,Create loops,Compile faster,Replace arrays,1
+9,Which chapter introduces OOP foundations?,Objects and Classes,Arrays,Loops,Strings,1
+9,Which concept groups data and functions together?,Class,Object reference,Loop,Array,1
+9,What is one benefit of OOP?,Modularity,Less memory always,No methods,Fewer classes,1
+9,Which concept improves code organization using entities?,Classes and Objects,Loops,Packages,Casting,1
+9,Can object references be null?,Yes,No,Never,Only strings,1
+9,What happens when using method on null reference?,NullPointerException,Compile error,Returns 0,Ignored,1
+9,Objects mainly model what?,Real-world entities,Only numbers,Only strings,Only arrays,1
+9,What chapter introduces creating custom types?,Objects and Classes,Loops,Methods,Arrays,1
+10,What is object-oriented thinking mainly about?,Modeling real world objects,Writing loops,Faster compilation,Memory allocation,1
+10,Which OOP concept hides implementation details?,Abstraction,Looping,Sorting,Casting,1
+10,Which OOP concept bundles data and methods?,Encapsulation,Inheritance,Compilation,Iteration,1
+10,Which concept promotes code reuse?,Inheritance,Looping,Sorting,Casting,1
+10,What is association in OOP?,Relationship between objects,Loop relation,Memory allocation,Compilation,1
+10,What is aggregation?,Weak has-a relationship,Strong has-a relationship,Inheritance,Polymorphism,1
+10,What is composition?,Strong has-a relationship,Weak relationship,Loop structure,Sorting algorithm,1
+10,Which relationship represents ownership?,Composition,Association,Looping,Casting,1
+10,What happens to composed object if owner destroyed?,Also destroyed,Remains forever,Compile error,None,1
+10,Aggregation represents what type of ownership?,Weak ownership,Strong ownership,None,Inheritance,1
+10,Which concept reduces system complexity?,Abstraction,Recursion,Casting,Sorting,1
+10,What is high cohesion?,Related responsibilities together,Random functions,Large classes,More loops,1
+10,What is low coupling?,Less dependency between classes,More dependencies,No classes,More variables,1
+10,Why is low coupling preferred?,Easy maintenance,More memory,Faster CPU,None,1
+10,What is responsibility-driven design?,Assigning proper tasks to objects,Sorting arrays,Creating loops,Compilation,1
+10,What is class responsibility?,Tasks handled by class,Object memory,Compiler tasks,Loop execution,1
+10,Which relationship means uses-a?,Association,Composition,Aggregation,Inheritance,1
+10,Can objects collaborate together?,Yes,No,Never,Only inheritance,1
+10,What is modularity?,Divide system into components,Single huge file,No methods,No classes,1
+10,Why create small classes?,Better maintainability,More memory,Fewer methods,None,1
+10,What is information hiding?,Hide internal details,Delete variables,Encrypt code,Hide loops,1
+10,Which access modifier supports hiding?,private,public,protected,static,1
+10,What is object identity?,Unique object existence,Object size,Loop count,Memory address only,1
+10,What is state of object represented by?,Attributes,Methods,Packages,Loops,1
+10,What is behavior represented by?,Methods,Attributes,Packages,Variables,1
+10,Which concept models real entities?,Objects,Arrays,Loops,Strings,1
+10,Can one object use another object?,Yes,No,Never,Only inheritance,1
+10,What is dependency relationship?,Temporary use relationship,Ownership relation,Inheritance,Composition,1
+10,What is a software entity?,Object or class,Loop only,Array only,Method only,1
+10,Which concept improves scalability?,Modular design,Large classes,Fewer methods,None,1
+10,What is abstraction focus?,Essential features only,All details,None,Compilation,1
+10,Can abstraction reduce complexity?,Yes,No,Never,Sometimes,1
+10,What is problem domain?,Real-world context,System memory,Compiler phase,Array type,1
+10,What is implementation domain?,Program solution domain,Real world only,Compiler stage,Loop area,1
+10,What is top-down design?,Break large problems smaller,Solve bottom first,Random coding,None,1
+10,What is bottom-up design?,Build from small components,Solve top only,Loop method,Sorting,1
+10,Why use reusable components?,Reduce duplication,Increase complexity,More memory,None,1
+10,Which relationship is strongest?,Composition,Aggregation,Association,Dependency,1
+10,What is object collaboration?,Objects working together,Loop nesting,Sorting arrays,Compilation,1
+10,What is interface in design thinking?,Contract between components,Compiler,Object memory,Loop type,1
+10,Why separate responsibilities?,Cleaner design,More RAM,Less code execution,None,1
+10,What is software reuse?,Using existing components,Copy pasting only,Deleting classes,None,1
+10,Can design affect maintainability?,Yes,No,Never,Sometimes,1
+10,What is maintainability?,Ease of modification,Object size,Memory usage,None,1
+10,What is flexibility?,Easy adaptation to change,More memory,Fewer classes,None,1
+10,What is robustness?,Handles errors well,Fast execution only,Less RAM,None,1
+10,Which principle says one class one responsibility?,Single responsibility,None,Loop principle,Memory principle,1
+10,What is separation of concerns?,Divide responsibilities,Combine all classes,None,Sorting,1
+10,What is abstraction barrier?,Hide complexity layer,Loop limit,Memory boundary,None,1
+10,Can objects exist independently?,Sometimes,No,Always,Never,1
+10,What is class hierarchy?,Relationship structure,Loop order,Sorting method,None,1
+10,Inheritance creates what relationship?,is-a,has-a,uses-a,owns-a,1
+10,Composition creates what relationship?,has-a,is-a,uses-a,depends-a,1
+10,Which design usually easier to maintain?,High cohesion low coupling,Low cohesion high coupling,None,Random design,1
+10,What is software architecture?,System structure,Loop structure,Array structure,None,1
+10,What does refactoring improve?,Design quality,Memory only,Compilation,None,1
+10,Can classes depend too much on each other?,Yes,No,Never,Sometimes,1
+10,Too much dependency causes?,Tight coupling,Loose coupling,Inheritance,Abstraction,1
+10,What is conceptual model?,Abstract representation,Compiler output,Array type,None,1
+10,Objects interact through?,Methods,Variables only,Packages,None,1
+10,Why avoid giant classes?,Hard maintenance,Better speed,None,More memory,1
+10,What is decomposition?,Break problem smaller,Merge classes,Delete methods,None,1
+10,Can systems be layered?,Yes,No,Never,Sometimes,1
+10,Layered design improves?,Organization,Memory only,None,Compilation,1
+10,Which relationship can exist without ownership?,Association,Composition,Aggregation,None,1
+10,What is ownership relation?,Composition/Aggregation,Looping,Sorting,None,1
+10,Good OOP design emphasizes?,Relationships and responsibilities,Loops only,Arrays,None,1
+10,Why use diagrams in design?,Visualize relationships,Compile code,None,Increase RAM,1
+10,UML mainly helps with?,Design visualization,Compilation,Execution,None,1
+10,What does CRC stand for?,Class Responsibility Collaboration,Class Runtime Code,Compile Run Create,None,1
+10,CRC cards help with?,Object design,Looping,Sorting,None,1
+10,What is abstraction level?,Amount of hidden detail,Object size,None,Loop depth,1
+10,Can multiple objects share one class blueprint?,Yes,No,Never,Only static,1
+10,What improves testability?,Modular classes,Large classes,None,Long methods,1
+10,What is software component?,Reusable unit,Object memory,Compiler stage,None,1
+10,Can abstraction and encapsulation work together?,Yes,No,Never,Sometimes,1
+10,Why avoid duplicate logic?,Maintainability,More speed,None,Less RAM,1
+10,What does design pattern provide?,Reusable solution,Compiler feature,None,Loop shortcut,1
+10,What is system complexity reduced by?,Good design,More classes,None,More loops,1
+10,What is relationship modeling?,Defining object interactions,Loop creation,None,Compilation,1
+10,Good design aims for?,Flexibility and maintainability,More RAM,None,Fewer objects,1
+10,Can responsibilities shift during refactoring?,Yes,No,Never,Sometimes,1
+10,What is cohesion measuring?,Relatedness inside class,Object size,None,Memory usage,1
+10,What is coupling measuring?,Dependency between classes,Loop depth,None,Speed,1
+10,What is primary goal of OOP thinking?,Model real problems effectively,Create arrays,Faster CPU,None,1
+10,Can poor design still compile?,Yes,No,Never,Sometimes,1
+10,Which chapter focuses more on design than syntax?,Object-Oriented Thinking,Loops,Arrays,Strings,1
+10,Object-oriented thinking mainly improves?,Software design quality,Memory size,None,Compiler speed,1
+10,What is one hallmark of good design?,Simple understandable classes,Large classes,None,More methods,1
+10,Which principle encourages reusable code blocks?,Modularity,None,Looping,Sorting,1
+10,Can one object belong to multiple relationships?,Yes,No,Never,Only inheritance,1
+10,What is design tradeoff?,Balance between factors,Compiler issue,None,Loop error,1
+10,What does ownership imply?,Lifecycle relationship,None,Loop relation,Sorting,1
+10,Why use object models?,Represent systems clearly,Increase memory,None,Compile faster,1
+10,Which concept keeps systems manageable?,Abstraction,None,Looping,Sorting,1
+10,What chapter transitions from syntax to design mindset?,Object-Oriented Thinking,Methods,Arrays,Strings,1
+10,What is object-oriented thinking mainly about?,Modeling real world objects,Writing loops,Faster compilation,Memory allocation,1
+10,Which OOP concept hides implementation details?,Abstraction,Looping,Sorting,Casting,1
+10,Which OOP concept bundles data and methods?,Encapsulation,Inheritance,Compilation,Iteration,1
+10,Which concept promotes code reuse?,Inheritance,Looping,Sorting,Casting,1
+10,What is association in OOP?,Relationship between objects,Loop relation,Memory allocation,Compilation,1
+10,What is aggregation?,Weak has-a relationship,Strong has-a relationship,Inheritance,Polymorphism,1
+10,What is composition?,Strong has-a relationship,Weak relationship,Loop structure,Sorting algorithm,1
+10,Which relationship represents ownership?,Composition,Association,Looping,Casting,1
+10,What happens to composed object if owner destroyed?,Also destroyed,Remains forever,Compile error,None,1
+10,Aggregation represents what type of ownership?,Weak ownership,Strong ownership,None,Inheritance,1
+10,Which concept reduces system complexity?,Abstraction,Recursion,Casting,Sorting,1
+10,What is high cohesion?,Related responsibilities together,Random functions,Large classes,More loops,1
+10,What is low coupling?,Less dependency between classes,More dependencies,No classes,More variables,1
+10,Why is low coupling preferred?,Easy maintenance,More memory,Faster CPU,None,1
+10,What is responsibility-driven design?,Assigning proper tasks to objects,Sorting arrays,Creating loops,Compilation,1
+10,What is class responsibility?,Tasks handled by class,Object memory,Compiler tasks,Loop execution,1
+10,Which relationship means uses-a?,Association,Composition,Aggregation,Inheritance,1
+10,Can objects collaborate together?,Yes,No,Never,Only inheritance,1
+10,What is modularity?,Divide system into components,Single huge file,No methods,No classes,1
+10,Why create small classes?,Better maintainability,More memory,Fewer methods,None,1
+10,What is information hiding?,Hide internal details,Delete variables,Encrypt code,Hide loops,1
+10,Which access modifier supports hiding?,private,public,protected,static,1
+10,What is object identity?,Unique object existence,Object size,Loop count,Memory address only,1
+10,What is state of object represented by?,Attributes,Methods,Packages,Loops,1
+10,What is behavior represented by?,Methods,Attributes,Packages,Variables,1
+10,Which concept models real entities?,Objects,Arrays,Loops,Strings,1
+10,Can one object use another object?,Yes,No,Never,Only inheritance,1
+10,What is dependency relationship?,Temporary use relationship,Ownership relation,Inheritance,Composition,1
+10,What is a software entity?,Object or class,Loop only,Array only,Method only,1
+10,Which concept improves scalability?,Modular design,Large classes,Fewer methods,None,1
+10,What is abstraction focus?,Essential features only,All details,None,Compilation,1
+10,Can abstraction reduce complexity?,Yes,No,Never,Sometimes,1
+10,What is problem domain?,Real-world context,System memory,Compiler phase,Array type,1
+10,What is implementation domain?,Program solution domain,Real world only,Compiler stage,Loop area,1
+10,What is top-down design?,Break large problems smaller,Solve bottom first,Random coding,None,1
+10,What is bottom-up design?,Build from small components,Solve top only,Loop method,Sorting,1
+10,Why use reusable components?,Reduce duplication,Increase complexity,More memory,None,1
+10,Which relationship is strongest?,Composition,Aggregation,Association,Dependency,1
+10,What is object collaboration?,Objects working together,Loop nesting,Sorting arrays,Compilation,1
+10,What is interface in design thinking?,Contract between components,Compiler,Object memory,Loop type,1
+10,Why separate responsibilities?,Cleaner design,More RAM,Less code execution,None,1
+10,What is software reuse?,Using existing components,Copy pasting only,Deleting classes,None,1
+10,Can design affect maintainability?,Yes,No,Never,Sometimes,1
+10,What is maintainability?,Ease of modification,Object size,Memory usage,None,1
+10,What is flexibility?,Easy adaptation to change,More memory,Fewer classes,None,1
+10,What is robustness?,Handles errors well,Fast execution only,Less RAM,None,1
+10,Which principle says one class one responsibility?,Single responsibility,None,Loop principle,Memory principle,1
+10,What is separation of concerns?,Divide responsibilities,Combine all classes,None,Sorting,1
+10,What is abstraction barrier?,Hide complexity layer,Loop limit,Memory boundary,None,1
+10,Can objects exist independently?,Sometimes,No,Always,Never,1
+10,What is class hierarchy?,Relationship structure,Loop order,Sorting method,None,1
+10,Inheritance creates what relationship?,is-a,has-a,uses-a,owns-a,1
+10,Composition creates what relationship?,has-a,is-a,uses-a,depends-a,1
+10,Which design usually easier to maintain?,High cohesion low coupling,Low cohesion high coupling,None,Random design,1
+10,What is software architecture?,System structure,Loop structure,Array structure,None,1
+10,What does refactoring improve?,Design quality,Memory only,Compilation,None,1
+10,Can classes depend too much on each other?,Yes,No,Never,Sometimes,1
+10,Too much dependency causes?,Tight coupling,Loose coupling,Inheritance,Abstraction,1
+10,What is conceptual model?,Abstract representation,Compiler output,Array type,None,1
+10,Objects interact through?,Methods,Variables only,Packages,None,1
+10,Why avoid giant classes?,Hard maintenance,Better speed,None,More memory,1
+10,What is decomposition?,Break problem smaller,Merge classes,Delete methods,None,1
+10,Can systems be layered?,Yes,No,Never,Sometimes,1
+10,Layered design improves?,Organization,Memory only,None,Compilation,1
+10,Which relationship can exist without ownership?,Association,Composition,Aggregation,None,1
+10,What is ownership relation?,Composition/Aggregation,Looping,Sorting,None,1
+10,Good OOP design emphasizes?,Relationships and responsibilities,Loops only,Arrays,None,1
+10,Why use diagrams in design?,Visualize relationships,Compile code,None,Increase RAM,1
+10,UML mainly helps with?,Design visualization,Compilation,Execution,None,1
+10,What does CRC stand for?,Class Responsibility Collaboration,Class Runtime Code,Compile Run Create,None,1
+10,CRC cards help with?,Object design,Looping,Sorting,None,1
+10,What is abstraction level?,Amount of hidden detail,Object size,None,Loop depth,1
+10,Can multiple objects share one class blueprint?,Yes,No,Never,Only static,1
+10,What improves testability?,Modular classes,Large classes,None,Long methods,1
+10,What is software component?,Reusable unit,Object memory,Compiler stage,None,1
+10,Can abstraction and encapsulation work together?,Yes,No,Never,Sometimes,1
+10,Why avoid duplicate logic?,Maintainability,More speed,None,Less RAM,1
+10,What does design pattern provide?,Reusable solution,Compiler feature,None,Loop shortcut,1
+10,What is system complexity reduced by?,Good design,More classes,None,More loops,1
+10,What is relationship modeling?,Defining object interactions,Loop creation,None,Compilation,1
+10,Good design aims for?,Flexibility and maintainability,More RAM,None,Fewer objects,1
+10,Can responsibilities shift during refactoring?,Yes,No,Never,Sometimes,1
+10,What is cohesion measuring?,Relatedness inside class,Object size,None,Memory usage,1
+10,What is coupling measuring?,Dependency between classes,Loop depth,None,Speed,1
+10,What is primary goal of OOP thinking?,Model real problems effectively,Create arrays,Faster CPU,None,1
+10,Can poor design still compile?,Yes,No,Never,Sometimes,1
+10,Which chapter focuses more on design than syntax?,Object-Oriented Thinking,Loops,Arrays,Strings,1
+10,Object-oriented thinking mainly improves?,Software design quality,Memory size,None,Compiler speed,1
+10,What is one hallmark of good design?,Simple understandable classes,Large classes,None,More methods,1
+10,Which principle encourages reusable code blocks?,Modularity,None,Looping,Sorting,1
+10,Can one object belong to multiple relationships?,Yes,No,Never,Only inheritance,1
+10,What is design tradeoff?,Balance between factors,Compiler issue,None,Loop error,1
+10,What does ownership imply?,Lifecycle relationship,None,Loop relation,Sorting,1
+10,Why use object models?,Represent systems clearly,Increase memory,None,Compile faster,1
+10,Which concept keeps systems manageable?,Abstraction,None,Looping,Sorting,1
+10,What chapter transitions from syntax to design mindset?,Object-Oriented Thinking,Methods,Arrays,Strings,1
+12,What is an exception?,Abnormal event during execution,Compilation process,Loop type,Class variable,1
+12,Why is exception handling used?,Handle runtime problems,Increase RAM,Compile code,Create objects,1
+12,Which keyword handles exceptions?,catch,throw,class,new,1
+12,Which block contains risky code?,try,catch,finally,throw,1
+12,Which block catches exceptions?,catch,try,throw,main,1
+12,Which block always executes?,finally,try,catch,throw,1
+12,Which keyword manually creates exception?,throw,throws,catch,try,1
+12,Which keyword declares possible exceptions?,throws,throw,catch,finally,1
+12,What is checked exception?,Must be handled or declared,Ignored exception,Logic error,Compile warning,1
+12,What is unchecked exception?,Occurs at runtime,Must always declare,Compile error only,None,1
+12,Which class is parent of exceptions?,Exception,Object,Throwable,Error,3
+12,Which class is root of exception hierarchy?,Throwable,Exception,Object,RuntimeException,1
+12,What exception occurs dividing by zero integers?,ArithmeticException,IOException,NullPointerException,FileException,1
+12,What exception occurs for null object access?,NullPointerException,IOException,ArithmeticException,FileException,1
+12,What exception occurs invalid array index?,ArrayIndexOutOfBoundsException,IOException,NullPointerException,ArithmeticException,1
+12,Which exception occurs invalid type casting?,ClassCastException,IOException,ArithmeticException,NullPointerException,1
+12,Which exception occurs invalid input type with Scanner?,InputMismatchException,IOException,ArithmeticException,FileException,1
+12,Can multiple catch blocks exist?,Yes,No,Only two,Never,1
+12,Which catch block should appear first?,Specific exception,General exception,finally,throw,1
+12,What happens if Exception catch first?,Later catches unreachable,Nothing,Compilation success,Program faster,1
+12,Can try exist without catch?,Yes with finally,No,Never,Only throw,1
+12,Can finally exist without catch?,Yes,No,Never,Only runtime exceptions,1
+12,What is stack trace?,Error call history,Object memory,Loop output,Compilation report,1
+12,Which method prints stack trace?,printStackTrace(),showError(),display(),trace(),1
+12,What does getMessage() return?,Exception message,Stack trace,Class name,Method name,1
+12,What is purpose of custom exceptions?,Create own exception types,Increase RAM,Compile faster,Replace loops,1
+12,Which keyword creates custom exception class?,extends Exception,implements Exception,throw class,new Exception,1
+12,What is IOException related to?,Input/output operations,Math errors,Loops,Objects,1
+12,What exception occurs file not found?,FileNotFoundException,ArithmeticException,ClassCastException,ArrayException,1
+12,Which package contains file classes?,java.io,java.util,java.lang,java.net,1
+12,Which class represents files?,File,Scanner,Files,TextFile,1
+12,Which class reads text files commonly?,Scanner,Math,System,Random,1
+12,Which class writes formatted text files?,PrintWriter,Scanner,Reader,Math,1
+12,How create file object?,new File("a.txt"),File.create(),file(),make File,1
+12,Which method checks file existence?,exists(),isFound(),available(),check(),1
+12,Which method creates file?,createNewFile(),newFile(),create(),generate(),1
+12,What does file.length() return?,File size,Name,Lines count,Permissions,1
+12,Can Scanner read from files?,Yes,No,Only keyboard,Never,1
+12,Which constructor reads file with Scanner?,new Scanner(file),Scanner.read(file),Scanner(file),openScanner(),1
+12,Which class closes resources automatically with try?,try-with-resources,catch block,finally,Object,1
+12,What is try-with-resources benefit?,Auto closing resources,Faster code,More memory,None,1
+12,Can exceptions be nested?,Yes,No,Never,Only checked,1
+12,What is exception propagation?,Passing exception upward,Object creation,Looping,File writing,1
+12,Which keyword rethrows exception?,throw,throws,catch,finally,1
+12,Can finally block be skipped sometimes?,Yes on System.exit,No,Never,Always,1
+12,Which class writes primitive data as text?,PrintWriter,File,Scanner,System,1
+12,What method writes line using PrintWriter?,println(),writeLine(),nextLine(),show(),1
+12,What method closes PrintWriter?,close(),stop(),finish(),end(),1
+12,Can one try have multiple catches?,Yes,No,Never,Only two,1
+12,What is RuntimeException?,Unchecked exception,Checked exception,Error,None,1
+12,Which exception occurs invalid number format?,NumberFormatException,IOException,ArithmeticException,ClassCastException,1
+12,What causes NumberFormatException?,Bad numeric conversion,File missing,Null object,Array issue,1
+12,Which exception handles interrupted threads?,InterruptedException,IOException,RuntimeException,ArrayException,1
+12,Can catch blocks use superclass types?,Yes,No,Never,Only Exception,1
+12,What is broad catch block example?,catch(Exception e),catch(IOException e),catch(File e),catch(Int e),1
+12,What is advantage of specific catches?,Better handling,Less memory,None,Faster CPU,1
+12,Which keyword explicitly ends method on exception?,throw,continue,break,switch,1
+12,Can exceptions be objects?,Yes,No,Never,Only checked,1
+12,Which class hierarchy branch is not exception?,Error,IOException,RuntimeException,Exception,1
+12,What are Errors generally?,Serious system problems,User inputs,Loop bugs,File names,1
+12,Can we usually recover from Error?,No,Yes,Always,Sometimes,1
+12,What file mode does PrintWriter use by default?,Overwrite,Append,Read,None,1
+12,Which class appends text easily?,FileWriter append mode,Scanner,Math,System,1
+12,What is delimiter in Scanner?,Token separator,File path,Exception type,Loop variable,1
+12,Which Scanner method reads next token?,next(),read(),token(),get(),1
+12,Which Scanner method reads integer?,nextInt(),readInt(),intNext(),scanInt(),1
+12,Which Scanner method reads line?,nextLine(),next(),line(),readLine(),1
+12,Can files store persistent data?,Yes,No,Never,Only objects,1
+12,What is EOF?,End of file,Error of file,Empty output file,End object field,1
+12,Which loop commonly reads file until end?,while(scanner.hasNext()),for loop,switch,if,1
+12,What does hasNext() check?,More input exists,File closed,Exception,Object type,1
+12,Can exceptions improve robustness?,Yes,No,Never,Sometimes,1
+12,What is robust software?,Handles errors well,Faster software,Less memory,None,1
+12,What happens after uncaught exception?,Program terminates,Auto recovers,None,Compile error,1
+12,Can methods throw multiple exceptions?,Yes,No,Never,Only checked,1
+12,How separate multiple exceptions in throws?,Comma,Semicolon,Colon,Space,1
+12,What is resource leak?,Unclosed resources,Loop issue,Object issue,Sorting issue,1
+12,Why close files?,Release resources,Increase RAM,Compile faster,None,1
+12,Can Scanner objects be closed?,Yes,No,Never,Only files,1
+12,Which chapter introduces persistent storage basics?,Text I/O,Loops,Arrays,Methods,1
+12,What is serialization here?,Not text I/O focus,Object deletion,Loop process,Sorting,1
+12,What is purpose of file paths?,Locate files,Compile files,Create loops,None,1
+12,Relative path means?,Based on current location,Full disk path,None,Internet path,1
+12,Absolute path means?,Complete location,Current folder only,None,Relative folder,1
+12,Can exceptions be chained?,Yes,No,Never,Only IOExceptions,1
+12,Which exception often occurs parseInt invalid text?,NumberFormatException,IOException,ArithmeticException,NullPointerException,1
+12,What is exception object storing?,Error information,Arrays only,None,Loops,1
+12,Which concept separates normal flow from error flow?,Exception handling,Looping,Arrays,Methods,1
+12,Text I/O mainly works with?,Human-readable files,Binary only,None,Images only,1
+12,Can file objects create directories too?,Yes,No,Never,Only files,1
+12,Which method checks if file is directory?,isDirectory(),directory(),isFolder(),folder(),1
+12,What improves reliability during failures?,Exception handling,Long methods,Large classes,None,1
+12,Which chapter combines errors and file persistence?,Exception Handling and Text I/O,Arrays,Strings,Loops,1
+12,What is key benefit of try-catch?,Prevent crashes from runtime issues,Increase speed,None,Reduce memory,1
+12,Exception handling mainly improves?,Program stability,CPU speed,None,RAM size,1
+13,What is an abstract class?,Class that cannot be instantiated,Class without methods,Normal class,Final class,1
+13,Which keyword creates abstract class?,abstract,interface,extends,implements,1
+13,Can abstract classes create objects?,No,Yes,Sometimes,Only static objects,1
+13,What is an abstract method?,Method without body,Method with loop,Static method,Private method,1
+13,Which keyword declares abstract method?,abstract,void,static,return,1
+13,Must abstract methods have body?,No,Yes,Sometimes,Only interfaces,1
+13,Can abstract class contain concrete methods?,Yes,No,Never,Only constructors,1
+13,Can abstract classes have constructors?,Yes,No,Never,Sometimes,1
+13,Why use abstract classes?,Provide partial abstraction,Increase RAM,Replace arrays,Compile faster,1
+13,What happens if subclass doesn't implement abstract methods?,Must also be abstract,Compile success always,None,Object created,1
+13,Which keyword is used for interfaces?,interface,abstract,implements,extends,1
+13,Can interfaces be instantiated?,No,Yes,Sometimes,Only static,1
+13,Which keyword implements interface?,implements,extends,interface,super,1
+13,Can class implement multiple interfaces?,Yes,No,Never,Only abstract classes,1
+13,Can class extend multiple classes?,No,Yes,Sometimes,Only abstract classes,1
+13,Interfaces mainly support?,Multiple inheritance behavior,Loops,Arrays,Compilation,1
+13,What access modifier do interface methods have by default?,public,private,protected,default,1
+13,Interface variables are automatically?,public static final,private static,public only,instance variables,1
+13,Can interfaces contain variables?,Yes constants only,No,Only objects,Only arrays,1
+13,Default value of interface variables?,Must initialize,0,null,false,1
+13,Can interfaces have constructors?,No,Yes,Only abstract,Never,1
+13,Can interfaces extend interfaces?,Yes,No,Never,Only one,1
+13,Can abstract class implement interfaces?,Yes,No,Never,Only final classes,1
+13,What relationship does interface create?,Can-do capability,is-a only,has-a,owns-a,1
+13,Can interface methods be static?,Yes,No,Never,Only default methods,1
+13,What Java version introduced default methods?,Java 8,Java 5,Java 2,Java 1,1
+13,Why default methods added?,Backward compatibility,Speed,Memory,None,1
+13,Can interfaces contain default methods?,Yes,No,Never,Only abstract classes,1
+13,Which keyword defines default interface method?,default,public,static,abstract,1
+13,Can interfaces contain private methods?,Yes newer Java,No,Never,Only static,1
+13,Can abstract classes contain instance variables?,Yes,No,Never,Only constants,1
+13,Can interfaces contain instance variables?,No,Yes,Sometimes,Only objects,1
+13,Abstract class supports what abstraction?,Partial,Full only,None,No abstraction,1
+13,Interface traditionally supports what abstraction?,Full abstraction,No abstraction,Partial only,Looping,1
+13,Which is stronger contract?,Interface,Abstract class,None,Loop,1
+13,What happens when class implements interface?,Must implement methods,Nothing,Compile error always,None,1
+13,Can interface references store implementing objects?,Yes,No,Never,Only abstract classes,1
+13,Which concept heavily uses interfaces?,Polymorphism,Sorting,Arrays,Loops,1
+13,Can abstract class extend another abstract class?,Yes,No,Never,Only interfaces,1
+13,Can abstract class extend normal class?,Yes,No,Never,Sometimes,1
+13,Can normal class extend abstract class?,Yes,No,Never,Only interfaces,1
+13,Can abstract methods be private?,No,Yes,Sometimes,Only interfaces,1
+13,Can abstract methods be final?,No,Yes,Sometimes,Never,1
+13,Can abstract methods be static?,No,Yes,Never,Sometimes,1
+13,What keyword accesses parent members?,super,this,parent,extends,1
+13,Can interface methods be overridden?,Yes,No,Never,Only abstract classes,1
+13,What is marker interface?,Interface without methods,Interface with loops,Abstract class,Static class,1
+13,Example of marker interface?,Serializable,Scanner,String,Math,1
+13,Can interfaces contain nested interfaces?,Yes,No,Never,Only classes,1
+13,Can interfaces inherit multiple interfaces?,Yes,No,Never,Only abstract,1
+13,What is loose coupling aided by?,Interfaces,Arrays,Loops,Strings,1
+13,What is dependency inversion supported by?,Interfaces,Sorting,Arrays,None,1
+13,Can abstract class force subclasses behavior?,Yes,No,Never,Only interfaces,1
+13,Can interfaces provide implementation now?,Yes via default methods,No,Never,Only constructors,1
+13,Which keyword accesses current object?,this,super,parent,interface,1
+13,Can interface methods throw exceptions?,Yes,No,Never,Only checked,1
+13,Which type is better for unrelated classes common behavior?,Interface,Abstract class,None,Loop,1
+13,Which type shares state easily?,Abstract class,Interface,None,Loop,1
+13,Can abstract classes have final methods?,Yes,No,Never,Only constructors,1
+13,What happens if class implements two interfaces same default method?,Must resolve conflict,Auto choose,Compile success,None,1
+13,Can anonymous classes implement interfaces?,Yes,No,Never,Only abstract,1
+13,Functional interfaces mainly used with?,Lambda expressions,Loops,Arrays,Sorting,1
+13,How many abstract methods functional interface has?,One,Two,Zero,Unlimited,1
+13,Annotation for functional interface?,@FunctionalInterface,@Override,@Interface,@Abstract,1
+13,Can interfaces extend classes?,No,Yes,Sometimes,Never,1
+13,Can abstract class be final?,No,Yes,Sometimes,Never,1
+13,What is benefit of interfaces?,Flexibility,More RAM,None,Speed only,1
+13,Which concept allows multiple behavior contracts?,Interfaces,None,Loops,Arrays,1
+13,Can object belong to interface type reference?,Yes,No,Never,Only abstract classes,1
+13,Abstract classes mainly model?,Common base classes,Arrays,Loops,Strings,1
+13,Interfaces mainly model?,Capabilities,Memory,Loops,Arrays,1
+13,What is polymorphic benefit with interfaces?,Generic programming,None,More RAM,Speed,1
+13,Can constructors be abstract?,No,Yes,Never,Sometimes,1
+13,Can abstract classes have static methods?,Yes,No,Never,Only interfaces,1
+13,Can interfaces have static methods?,Yes,No,Never,Only default methods,1
+13,Which chapter increases abstraction skills?,Abstract Classes and Interfaces,Loops,Arrays,Strings,1
+13,What is contract-based programming aided by?,Interfaces,None,Arrays,Loops,1
+13,Can subclasses inherit implemented interfaces?,Yes,No,Never,Only abstract,1
+13,What does ISP stand for in design?,Interface Segregation Principle,Internal System Package,Interface System Programming,None,1
+13,Large interfaces violate?,ISP,OOP,None,DRY,1
+13,What improves extensibility?,Interfaces and abstraction,None,Loops,Arrays,1
+13,Can interface variables change later?,No,Yes,Sometimes,Never,1
+13,Interface constants are implicitly?,final,true,false,mutable,1
+13,Abstract classes help avoid?,Code duplication,None,Loops,Arrays,1
+13,What concept separates implementation from usage?,Abstraction,None,Sorting,Loops,1
+13,Which type better when shared code required?,Abstract class,Interface,None,Loops,1
+13,Which type better for multiple capabilities?,Interface,Abstract class,None,Loops,1
+13,Can interfaces support dependency injection designs?,Yes,No,Never,Sometimes,1
+13,What chapter deepens abstraction mechanisms?,Abstract Classes and Interfaces,Methods,Loops,Arrays,1
+13,Which concept improves maintainability greatly?,Abstraction,None,Arrays,Sorting,1
+13,Can abstract classes contain nonabstract fields?,Yes,No,Never,Only static,1
+13,Can interfaces directly create objects?,No,Yes,Never,Sometimes,1
+13,What is one goal of abstraction?,Hide complexity,None,Increase RAM,Compile faster,1
+13,Interfaces encourage what design?,Loose coupling,None,Deep inheritance,Large classes,1
+13,Abstract classes and interfaces mainly support?,Flexible OOP design,None,Loops,Arrays,1
+14,What is JavaFX mainly used for?,GUI applications,Database management,Networking,File compression,1
+14,Which package contains JavaFX controls?,javafx.controls,java.awt,java.io,java.net,1
+14,Which class is entry point for JavaFX app?,Application,Stage,Scene,Platform,1
+14,Which method starts JavaFX application?,start(),main(),run(),execute(),1
+14,What parameter does start() receive?,Stage,Scene,Button,Label,1
+14,What is Stage in JavaFX?,Main window,Layout pane,Button,Container only,1
+14,What is Scene in JavaFX?,Content container,Window title,Event object,Method,1
+14,Can one Stage have multiple Scenes?,Yes,No,Never,Only one permanently,1
+14,Which method displays stage?,show(),display(),open(),start(),1
+14,Which method sets scene to stage?,setScene(),addScene(),showScene(),scene(),1
+14,What is Node in JavaFX?,GUI element,Object only,Database element,Compiler unit,1
+14,Button belongs to which category?,Control,Layout,Stage,Scene,1
+14,Which control displays text?,Label,Button,VBox,Stage,1
+14,Which control accepts user input?,TextField,Label,Pane,Scene,1
+14,Which control handles clicks?,Button,Stage,Scene,Label,1
+14,What layout arranges vertically?,VBox,HBox,GridPane,BorderPane,1
+14,What layout arranges horizontally?,HBox,VBox,GridPane,BorderPane,1
+14,Which layout uses rows and columns?,GridPane,VBox,HBox,StackPane,1
+14,Which layout stacks nodes?,StackPane,HBox,VBox,GridPane,1
+14,Which layout divides top bottom left right center?,BorderPane,GridPane,VBox,HBox,1
+14,What method changes window title?,setTitle(),title(),windowTitle(),name(),1
+14,Which method launches JavaFX runtime?,launch(),run(),execute(),show(),1
+14,What event commonly used for buttons?,ActionEvent,MouseEvent only,KeyEvent only,None,1
+14,Which method sets button click action?,setOnAction(),onClick(),clickEvent(),setClick(),1
+14,What syntax often used in event handlers?,Lambda expressions,SQL,HTML,CSS only,1
+14,Can Scene contain layouts?,Yes,No,Never,Only controls,1
+14,Which class creates buttons?,Button,Label,Stage,Scene,1
+14,Which class creates labels?,Label,Text,Button,Pane,1
+14,What method changes button text?,setText(),changeText(),title(),rename(),1
+14,What method gets text field content?,getText(),readText(),input(),fetch(),1
+14,Which method sets prompt text?,setPromptText(),prompt(),placeholder(),setHint(),1
+14,Can controls be styled?,Yes,No,Never,Only buttons,1
+14,What language styles JavaFX UI?,CSS,HTML,SQL,XML,1
+14,Which pane often centers content?,StackPane,VBox,GridPane,HBox,1
+14,Can JavaFX apps have multiple windows?,Yes,No,Never,Only scenes,1
+14,What object handles mouse interactions?,Event object,Scene,Stage,Label,1
+14,Which property changes node size?,setPrefWidth()/Height(),resizeNow(),size(),expand(),1
+14,What package contains layouts?,javafx.scene.layout,java.io,java.awt,java.net,1
+14,Can VBox contain buttons?,Yes,No,Never,Only labels,1
+14,Which method adds nodes to layout?,getChildren().add(),insertNode(),append(),layoutAdd(),1
+14,Can layouts contain layouts?,Yes,No,Never,Only controls,1
+14,What does Pos.CENTER do?,Center alignment,Resize node,Close stage,Open scene,1
+14,Which class represents text input area?,TextArea,TextField,Label,Button,1
+14,What control allows passwords hidden?,PasswordField,TextField,SecureInput,HiddenField,1
+14,Can JavaFX use images?,Yes,No,Never,Only icons,1
+14,Which class loads images?,Image,Picture,Photo,Icon,1
+14,Which control displays images?,ImageView,Label,Pane,Scene,1
+14,What is event handling?,Responding to actions,Creating arrays,Compiling code,Database queries,1
+14,Can lambda simplify handlers?,Yes,No,Never,Only loops,1
+14,What operator used in lambdas?,->,=>,::,++,1
+14,Which method closes stage?,close(),hideNow(),destroy(),finish(),1
+14,Can stage size be changed?,Yes,No,Never,Only scene size,1
+14,Which method sets width?,setWidth(),width(),resizeWidth(),setX(),1
+14,Which method sets height?,setHeight(),height(),resizeHeight(),setY(),1
+14,What layout good for forms?,GridPane,HBox,StackPane,TextArea,1
+14,Can scenes switch dynamically?,Yes,No,Never,Only stages,1
+14,What is FXML?,UI markup language,Database language,Compiler,Package,1
+14,FXML often works with?,Scene Builder,MySQL,Scanner,Math,1
+14,Can JavaFX run CSS files?,Yes,No,Never,Only inline styles,1
+14,Which method disables resizing?,setResizable(false),disableResize(),lockWindow(),fixed(),1
+14,What thread runs UI updates?,JavaFX Application Thread,Main Thread only,Worker Thread,Compiler Thread,1
+14,Can long tasks freeze UI?,Yes,No,Never,Sometimes,1
+14,What container groups nodes?,Pane/Layout,Scene only,Stage only,Method,1
+14,Which component displays multiple lines input?,TextArea,TextField,Label,Button,1
+14,Can labels show dynamic text?,Yes,No,Never,Only static,1
+14,What property changes alignment?,setAlignment(),align(),center(),setPosition(),1
+14,Can JavaFX applications use OOP?,Yes,No,Never,Only interfaces,1
+14,Which control creates selectable options?,ComboBox,Label,Button,Pane,1
+14,Which control provides check marks?,CheckBox,RadioButton,Pane,Stage,1
+14,Which control allows one option from many?,RadioButton,CheckBox,TextField,Label,1
+14,What groups radio buttons?,ToggleGroup,ButtonGroup,NodeGroup,ChoiceGroup,1
+14,Which control displays lists?,ListView,TextArea,Button,Stage,1
+14,Can layouts set spacing?,Yes,No,Never,Only VBox,1
+14,Which method sets spacing in VBox?,setSpacing(),spacing(),space(),setGap(),1
+14,Can layouts set padding?,Yes,No,Never,Only GridPane,1
+14,Which class provides Insets padding?,Insets,Padding,Margin,Border,1
+14,What does Scene need minimum?,Root node,Button,Label,Image,1
+14,Can JavaFX mix multiple controls?,Yes,No,Never,Only layouts,1
+14,What improves GUI usability?,Layouts and controls,Loops,Arrays,Sorting,1
+14,Can JavaFX applications use files/databases?,Yes,No,Never,Only networking,1
+14,What is primary purpose of JavaFX?,Build GUIs,Compile code,Create OS,Manage RAM,1
+14,Can GUI apps respond to users instantly?,Yes,No,Never,Sometimes,1
+14,Which chapter introduces event-driven programming?,JavaFX Basics,Loops,Arrays,Methods,1
+14,GUI stands for?,Graphical User Interface,General User Input,Graphics Utility Interface,General UI Integration,1
+14,Can scenes contain multiple nodes?,Yes,No,Never,Only layouts,1
+14,What improves interface organization?,Layouts,Loops,Arrays,Packages,1
+14,Which concept powers button actions?,Events,Arrays,Methods,Inheritance,1
+14,JavaFX mainly supports?,Desktop applications,Operating systems,Drivers,Databases,1
+14,Can controls trigger events?,Yes,No,Never,Only buttons,1
+14,What chapter relates closely to your project GUIs?,JavaFX Basics,Arrays,Loops,Sorting,1
+14,What is user interaction handled through?,Events,Arrays,Methods,Packages,1
+14,Can scenes be replaced at runtime?,Yes,No,Never,Sometimes,1
+14,What is visual hierarchy improved by?,Layouts,None,Loops,Arrays,1
+14,JavaFX applications encourage?,Event-driven programming,None,Assembly coding,Procedural only,1
+15,What is Binary I/O mainly used for?,Reading and writing binary data,GUI design,Loops only,String comparison,1
+15,What is binary file data stored as?,Bytes,Characters only,Objects only,Strings only,1
+15,Which package contains binary stream classes?,java.io,java.util,javafx.io,java.net,1
+15,Which class writes bytes to file?,FileOutputStream,FileInputStream,Scanner,PrintWriter,1
+15,Which class reads bytes from file?,FileInputStream,FileOutputStream,Scanner,Reader,1
+15,What does FileOutputStream primarily write?,Bytes,Lines only,Objects only,Characters only,1
+15,What does FileInputStream primarily read?,Bytes,Lines only,Strings only,Objects only,1
+15,Which method writes one byte?,write(),read(),print(),next(),1
+15,Which method reads one byte?,read(),write(),scan(),next(),1
+15,What does read() return at file end?,-1,0,1,null,1
+15,Can binary files store images?,Yes,No,Never,Only text,1
+15,Can binary files store audio?,Yes,No,Never,Only objects,1
+15,Which stream improves efficiency using buffering?,Buffered streams,Scanner,StringBuilder,Math,1
+15,What class buffers input bytes?,BufferedInputStream,BufferedWriter,Scanner,PrintWriter,1
+15,What class buffers output bytes?,BufferedOutputStream,BufferedReader,Scanner,Math,1
+15,Why use buffering?,Improve performance,Increase RAM,None,Slow execution,1
+15,Which stream writes primitive types easily?,DataOutputStream,Scanner,File,PrintWriter,1
+15,Which stream reads primitive types easily?,DataInputStream,Scanner,Reader,Writer,1
+15,Which method writes integer using DataOutputStream?,writeInt(),printInt(),saveInt(),nextInt(),1
+15,Which method reads integer using DataInputStream?,readInt(),getInt(),nextInt(),scanInt(),1
+15,Can DataOutputStream write doubles?,Yes,No,Only integers,Never,1
+15,Which method writes boolean values?,writeBoolean(),booleanWrite(),saveBool(),write(),1
+15,Which method reads boolean values?,readBoolean(),getBoolean(),nextBoolean(),scanBoolean(),1
+15,What happens if read order differs from write order?,Incorrect data/errors,None,Auto correction,Faster reading,1
+15,What is serialization?,Converting object into byte stream,Sorting arrays,Looping,Compilation,1
+15,Which interface enables serialization?,Serializable,Cloneable,Runnable,Readable,1
+15,Serializable belongs to package?,java.io,java.util,java.lang,java.net,1
+15,Can objects be stored in binary files?,Yes,No,Never,Only arrays,1
+15,Which stream writes objects?,ObjectOutputStream,Scanner,PrintWriter,Reader,1
+15,Which stream reads objects?,ObjectInputStream,Scanner,BufferedReader,Math,1
+15,Which method writes objects?,writeObject(),saveObject(),objectWrite(),printObject(),1
+15,Which method reads objects?,readObject(),objectRead(),nextObject(),scanObject(),1
+15,What exception may occur object reading wrong type?,ClassCastException,IOException,None,ArithmeticException,1
+15,What keyword prevents field serialization?,transient,final,static,private,1
+15,Transient fields are?,Not serialized,Always serialized,Encrypted,None,1
+15,Can static fields serialize normally?,No,Yes,Always,Sometimes,1
+15,Why use binary files over text sometimes?,Efficiency and compactness,None,More readability,More typing,1
+15,Which stream chain is common?,File stream + buffered/data stream,None,Loop + stream,Math + stream,1
+15,Can binary files be human readable?,Usually no,Always yes,Sometimes only,Only text files,1
+15,What is EOFException related to?,Unexpected file end,None,Loop termination,GUI issue,1
+15,Which exception commonly used with streams?,IOException,None,MathException,GUIException,1
+15,Can streams be closed after use?,Yes,No,Never,Optional always,1
+15,Why close streams?,Release resources,None,Increase RAM,Compile faster,1
+15,Which feature auto closes streams?,try-with-resources,None,catch block,throw,1
+15,Can binary streams transfer network data?,Yes,No,Never,Only files,1
+15,What is byte data range?,-128 to 127,0 to 255,0 to 127,-255 to 255,1
+15,Which primitive size is one byte?,byte,int,double,long,1
+15,Can FileInputStream read characters directly efficiently?,No,Yes,Always,Only strings,1
+15,What is object deserialization?,Convert bytes back to object,None,Delete object,Compile object,1
+15,Can serialization support persistence?,Yes,No,Never,Only arrays,1
+15,What is persistence?,Saving data permanently,None,Looping,Compilation,1
+15,Can arrays be serialized?,Yes,No,Never,Only objects,1
+15,Which interface has no methods?,Serializable,None,Runnable,Closeable,1
+15,What is marker interface?,Interface without methods,None,Loop interface,Static interface,1
+15,Can serialization fail if class changes significantly?,Yes,No,Never,Sometimes,1
+15,Which field identifies serialized version?,serialVersionUID,None,versionID,UID,1
+15,What happens missing serialVersionUID?,Auto generated,None,Compile error,Program stops,1
+15,Can object graphs serialize too?,Yes,No,Never,Only arrays,1
+15,What stream layer handles objects?,Object streams,None,Scanner,Math,1
+15,Which method flushes output buffer?,flush(),clean(),write(),release(),1
+15,Why flush streams?,Force write pending data,None,Delete file,Read faster,1
+15,What does append mode preserve?,Existing file content,None,Objects only,Buffer,1
+15,Can binary files store custom objects?,Yes,No,Never,Only strings,1
+15,What stream reads bytes into arrays?,read(byte[]),nextBytes(),scan(),writeBytes(),1
+15,Can binary I/O be faster than text I/O?,Yes,No,Never,Sometimes,1
+15,What is one drawback of binary files?,Less human readable,None,Slower always,No storage,1
+15,Which class hierarchy parent for streams?,InputStream/OutputStream,None,Object only,Reader only,1
+15,Reader/Writer classes mainly handle?,Characters,None,Bytes only,Objects only,1
+15,InputStream mainly handles?,Bytes,None,Characters,GUI,1
+15,OutputStream mainly handles?,Bytes,None,Characters,Loops,1
+15,Can multiple streams wrap one another?,Yes,No,Never,Only buffered,1
+15,What is stream chaining?,Wrapping streams together,None,Sorting streams,Looping streams,1
+15,Which operation reconstructs objects?,Deserialization,None,Serialization,Compilation,1
+15,What is file corruption risk from?,Incorrect writing/reading,None,Loops,Methods,1
+15,Can binary files store encrypted data?,Yes,No,Never,Only text,1
+15,What does writeUTF() store?,String in UTF format,None,Integer,Object,1
+15,What method reads UTF strings?,readUTF(),nextUTF(),stringRead(),scanUTF(),1
+15,Can Data streams store chars?,Yes,No,Never,Only bytes,1
+15,Which method writes character?,writeChar(),putChar(),nextChar(),charWrite(),1
+15,Which method reads character?,readChar(),getChar(),scanChar(),nextChar(),1
+15,Can object serialization support networking?,Yes,No,Never,Only files,1
+15,Which chapter introduces object persistence strongly?,Binary I/O,None,Loops,Arrays,1
+15,What is byte stream abstraction?,Flow of bytes,None,Objects only,GUI,1
+15,Can binary files contain mixed data types?,Yes,No,Never,Only primitives,1
+15,What happens if stream not closed repeatedly?,Resource leaks,None,More RAM,Better speed,1
+15,Can IOException be checked exception?,Yes,No,Never,Sometimes,1
+15,Which stream class is abstract?,InputStream,FileInputStream,ObjectInputStream,Scanner,1
+15,What is output stream purpose?,Send data outward,None,Receive data,Compile data,1
+15,What is input stream purpose?,Receive data,None,Write files,Delete files,1
+15,Can binary I/O store game saves?,Yes,No,Never,Only text,1
+15,Serialization mainly helps with?,Saving object state,None,Looping,Sorting,1
+15,What concept enables object persistence?,Serialization,None,Inheritance,Loops,1
+15,Which chapter extends text I/O concepts?,Binary I/O,None,Methods,Strings,1
+15,Can object streams throw ClassNotFoundException?,Yes,No,Never,Sometimes,1
+15,What is one benefit of object streams?,Store complete objects,None,Less memory always,No files,1
+15,Binary I/O mainly improves?,Efficient storage,None,GUI quality,Loop speed,1
+15,What chapter introduces byte-level programming?,Binary I/O,None,Arrays,Methods,1
+16,What is event-driven programming?,Programming based on events,Programming loops only,Database programming,File programming,1
+16,What is an event?,User or system action,Object creation,Compilation step,Variable declaration,1
+16,Which package commonly handles JavaFX events?,javafx.event,java.io,java.util,java.net,1
+16,What object handles button clicks?,EventHandler,Scanner,Math,Thread,1
+16,Which method attaches event handling to button?,setOnAction(),setEvent(),addAction(),click(),1
+16,Which event occurs on button press?,ActionEvent,MouseEvent,KeyEvent,WindowEvent,1
+16,What interface handles events traditionally?,EventHandler,None,Runnable,Serializable,1
+16,Can lambda expressions handle events?,Yes,No,Never,Only buttons,1
+16,What operator used in lambda expressions?,->,=>,::,++,1
+16,What is MouseEvent related to?,Mouse actions,Keyboard actions,Files,Objects,1
+16,What is KeyEvent related to?,Keyboard actions,Mouse actions,Files,Objects,1
+16,Which event occurs when mouse clicked?,MouseClicked,KeyPressed,ActionPerformed,None,1
+16,Which event occurs when key pressed?,KeyPressed,MousePressed,ButtonPressed,None,1
+16,Can one node have multiple events?,Yes,No,Never,Only one,1
+16,What is event source?,Object generating event,Compiler,Loop,Variable,1
+16,What is event target?,Receiver node,Compiler,Object memory,Method,1
+16,Which method gets event source?,getSource(),source(),eventSource(),target(),1
+16,Can events propagate?,Yes,No,Never,Only mouse events,1
+16,What is event bubbling?,Propagation upward,Propagation downward,Compilation,None,1
+16,What is animation?,Visual changes over time,Compilation,File operation,Looping,1
+16,Which class supports JavaFX animations?,Timeline,Scanner,Thread,System,1
+16,What is Timeline used for?,Create animations,Create files,Create arrays,Create objects,1
+16,What is KeyFrame?,Animation step,GUI window,Event source,Thread,1
+16,Timeline contains what?,KeyFrames,Buttons,Arrays,Files,1
+16,Which package contains animation classes?,javafx.animation,java.io,java.util,java.lang,1
+16,Can animations repeat?,Yes,No,Never,Only once,1
+16,Which method starts animation?,play(),run(),startAnimation(),show(),1
+16,Which method pauses animation?,pause(),wait(),hold(),freeze(),1
+16,Which method stops animation?,stop(),terminate(),destroy(),cancel(),1
+16,What property controls repeat count?,setCycleCount(),repeat(),cycles(),setRepeat(),1
+16,Which constant creates infinite animation?,Timeline.INDEFINITE,FOREVER,MAX_VALUE,INFINITE,1
+16,What is Duration used for?,Timing,Storage,Input,Loops,1
+16,Which method creates seconds duration?,Duration.seconds(),Duration.time(),Duration.sec(),Duration.make(),1
+16,Can animations move objects?,Yes,No,Never,Only images,1
+16,What event occurs when mouse enters node?,MouseEntered,MousePressed,MouseDragged,KeyTyped,1
+16,What event occurs when mouse exits node?,MouseExited,MouseLeave,MouseReleased,ExitEvent,1
+16,What event occurs while dragging mouse?,MouseDragged,MouseMoved,MousePress,DragObject,1
+16,Can keyboard shortcuts use KeyEvent?,Yes,No,Never,Only buttons,1
+16,Which key event occurs after release?,KeyReleased,KeyTyped,KeyPressed,None,1
+16,What event type detects character typing?,KeyTyped,KeyPressed,KeyReleased,MouseTyped,1
+16,Can scenes receive key events?,Yes,No,Never,Only controls,1
+16,Which object stores event information?,Event object,Scene,Stage,Thread,1
+16,Can animations update GUI automatically?,Yes,No,Never,Sometimes,1
+16,What property changes object position horizontally?,setX()/layoutX,Height,Opacity,Text,1
+16,What property changes object position vertically?,setY()/layoutY,Width,Color,Text,1
+16,Can opacity be animated?,Yes,No,Never,Only images,1
+16,Can size properties be animated?,Yes,No,Never,Only buttons,1
+16,What is frame rate concept?,Updates per second,Storage speed,CPU speed,File speed,1
+16,Can animation affect performance?,Yes,No,Never,Sometimes,1
+16,What is GUI responsiveness?,Quick reaction to user,Compilation speed,Memory usage,None,1
+16,Can event handlers call methods?,Yes,No,Never,Only static methods,1
+16,What is callback concept?,Function executed on event,Loop type,Class type,None,1
+16,Can multiple handlers exist for different controls?,Yes,No,Never,Only buttons,1
+16,Which class schedules recurring actions?,Timeline,Scanner,Thread,Object,1
+16,What does playFromStart() do?,Restart animation,Pause animation,Delete animation,None,1
+16,Can animations rotate objects?,Yes,No,Never,Only images,1
+16,Can animations scale objects?,Yes,No,Never,Only text,1
+16,What event-driven design improves?,Interactivity,Memory only,None,Compilation,1
+16,Which event occurs when mouse button released?,MouseReleased,MouseExited,MouseTyped,ReleasedEvent,1
+16,Can nodes consume events?,Yes,No,Never,Only buttons,1
+16,What does consume() do on event?,Stops propagation,Deletes event,Creates event,None,1
+16,Can event filters process before handlers?,Yes,No,Never,Sometimes,1
+16,What is event handler purpose?,Respond to events,Create arrays,Compile code,None,1
+16,Can animation run indefinitely?,Yes,No,Never,Only loops,1
+16,What happens if heavy task on UI thread?,UI freezes,None,Faster app,Nothing,1
+16,Which thread updates JavaFX UI?,JavaFX Application Thread,Worker thread,Random thread,Compiler thread,1
+16,Can background tasks improve responsiveness?,Yes,No,Never,Sometimes,1
+16,What is transition animation?,Prebuilt animation class,Loop class,File class,None,1
+16,Which class fades nodes?,FadeTransition,MoveTransition,OpacityClass,FadeNode,1
+16,Which class moves nodes?,TranslateTransition,MoveTransition,TravelNode,NodeMover,1
+16,Which class rotates nodes?,RotateTransition,SpinNode,TurnTransition,RotationClass,1
+16,Which class scales nodes?,ScaleTransition,ResizeNode,ScaleNode,ScaleObject,1
+16,Can transitions combine together?,Yes,No,Never,Only two,1
+16,What is SequentialTransition?,Animations one after another,Parallel only,None,Looping,1
+16,What is ParallelTransition?,Animations together,None,Sequential only,Looping,1
+16,Can media controls trigger events?,Yes,No,Never,Only buttons,1
+16,What is user interaction mainly powered by?,Events,Arrays,Loops,Files,1
+16,What chapter introduces dynamic interfaces?,Event-driven Programming,None,Methods,Arrays,1
+16,Can animations improve UX?,Yes,No,Never,Sometimes,1
+16,Which event commonly closes window?,WindowEvent,MouseEvent,KeyEvent,ArrayEvent,1
+16,Can stages have close request handlers?,Yes,No,Never,Only scenes,1
+16,What method adds generic handler?,addEventHandler(),setHandler(),handleAdd(),addAction(),1
+16,Can nodes react to hover actions?,Yes,No,Never,Only buttons,1
+16,What event type supports drag operations?,MouseDragged,MouseClicked,KeyPressed,None,1
+16,Which property affects transparency?,Opacity,Width,Height,Text,1
+16,Can animations repeat fixed times?,Yes,No,Never,Only infinite,1
+16,What is event queue concept?,Pending events storage,None,File queue,Loop queue,1
+16,Can timers trigger events?,Yes,No,Never,Only buttons,1
+16,Timeline animations depend on?,Time intervals,None,Memory,Loops,1
+16,Can UI elements react differently to same event?,Yes,No,Never,Sometimes,1
+16,What improves interactive application design?,Events and animations,None,Arrays,Sorting,1
+16,Which chapter focuses on responsiveness?,Event-driven Programming and Animations,None,Strings,Methods,1
+16,What is final goal of event-driven programming?,Interactive applications,None,More memory,Compilation,1

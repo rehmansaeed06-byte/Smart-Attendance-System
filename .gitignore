@@ -1,0 +1,62 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+out/
+build/
+classes/
+
+# =========================
+# Java compiled files
+# =========================
+*.class
+
+# =========================
+# Build outputs
+# =========================
+dist/
+target/
+exports/
+SmartAttendanceRuntime/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Database (optional)
+# Keep if demo only, remove if you want DB in repo
+# =========================
+*.db
+*.sqlite
+
+# =========================
+# Temporary / generated files
+# =========================
+*.tmp
+sources.txt
+
+# =========================
+# Launch4j / Executables
+# =========================
+*.exe
+
+# =========================
+# JAR files (optional)
+# Remove this line if you WANT to upload JARs
+# =========================
+*.jar
+
+# =========================
+# Project specific junk folders
+# =========================
+lib-temp/
+temp/
