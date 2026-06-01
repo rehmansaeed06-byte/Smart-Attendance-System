@@ -1,0 +1,54 @@
+
+
+Version:	3.50
+CmdLine:	D:\New folder (2)\Smart Attendance\ServerApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\New folder (2)\Smart Attendance\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	.\SmartAttendanceRuntime
+Check launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe (OK)
+Version string: 1.021.000_011 / 64-Bit (OK)
+Launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe
+Launcher args:	-jar "D:\New folder (2)\Smart Attendance\ServerApp.exe"
+Args length:	55/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\New folder (2)\Smart Attendance\StudentApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\New folder (2)\Smart Attendance\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	.\SmartAttendanceRuntime
+Check launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe (OK)
+Version string: 1.021.000_011 / 64-Bit (OK)
+Launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe
+Launcher args:	-jar "D:\New folder (2)\Smart Attendance\StudentApp.exe"
+Args length:	56/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\New folder (2)\Smart Attendance\TeacherApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\New folder (2)\Smart Attendance\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	.\SmartAttendanceRuntime
+Check launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe (OK)
+Version string: 1.021.000_011 / 64-Bit (OK)
+Launcher:	D:\New folder (2)\Smart Attendance\.\SmartAttendanceRuntime\bin\javaw.exe
+Launcher args:	-jar "D:\New folder (2)\Smart Attendance\TeacherApp.exe"
+Args length:	56/32768 chars
+Exit code:	0
