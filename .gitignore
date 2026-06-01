@@ -1,18 +1,5 @@
 
 # =========================
-# Temporary / generated files
-# =========================
-*.tmp
-sources.txt
-
-# =========================
 # Launch4j / Executables
 # =========================
 *.exe
-
-
-# =========================
-# Project specific junk folders
-# =========================
-lib-temp/
-temp/
