@@ -15,10 +15,8 @@ classes/
 # =========================
 # Build outputs
 # =========================
-dist/
 target/
 exports/
-SmartAttendanceRuntime/
 
 # =========================
 # Logs
@@ -32,13 +30,6 @@ SmartAttendanceRuntime/
 Thumbs.db
 
 # =========================
-# Database (optional)
-# Keep if demo only, remove if you want DB in repo
-# =========================
-*.db
-*.sqlite
-
-# =========================
 # Temporary / generated files
 # =========================
 *.tmp
@@ -49,11 +40,6 @@ sources.txt
 # =========================
 *.exe
 
-# =========================
-# JAR files (optional)
-# Remove this line if you WANT to upload JARs
-# =========================
-*.jar
 
 # =========================
 # Project specific junk folders
