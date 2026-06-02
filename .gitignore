@@ -25,3 +25,4 @@ exports/
 .DS_Store
 Thumbs.db
 xml/
+out/
