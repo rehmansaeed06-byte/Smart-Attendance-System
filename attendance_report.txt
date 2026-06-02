@@ -1,2 +1,8 @@
 Attendance Report
 ----------------------------
+Student: Moiz
+Correct: 1
+Wrong: 0
+Answered: 1
+Status: Absent
+----------------------------
