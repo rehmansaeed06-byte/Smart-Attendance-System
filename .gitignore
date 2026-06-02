@@ -1,28 +1,38 @@
-# =========================
 # IntelliJ IDEA
-# =========================
 .idea/
 *.iml
-# =========================
-# Build / Output folders
-# =========================
+
+# Build folders
 out/
 dist/
 exports/
-# =========================
-# Java compiled files
-# =========================
-*.class
-# =========================
-# Logs / temp
-# =========================
-*.log
-*.tmp
+build/
+target/
 
-# =========================
-# OS files
-# =========================
-.DS_Store
+# Compiled Java files
+*.class
+
+# Packaged artifacts
+*.jar
+*.war
+
+# Executables
+*.exe
+
+# Launch4j generated files
+launch4j.xml
+
+# Custom runtime (generated with jlink)
+SmartAttendanceRuntime/
+
+
+# Reports
+attendance_report
+*.log
+
+# Windows files
 Thumbs.db
-xml/
-out/
+Desktop.ini
+
+# macOS files
+.DS_Store
