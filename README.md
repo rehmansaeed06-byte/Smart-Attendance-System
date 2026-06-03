@@ -87,15 +87,6 @@ mcqs.csv        Sample MCQ Data
 * Launch4j
 * Inno Setup
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Server GUI
-* Teacher Dashboard
-* Student Interface
-* Quiz Window
-
 ##  Releases
 
 Pre-built Windows releases are available in the Releases section.
