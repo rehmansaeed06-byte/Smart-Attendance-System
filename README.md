@@ -1,8 +1,8 @@
-# 🎓 Smart Attendance System
+#  Smart Attendance System
 
 A JavaFX-based Attendance and Quiz Management System that allows teachers to manage attendance, conduct MCQ quizzes, and monitor student participation in real time over both Local Area Networks (LAN) and the Internet using Tailscale.
 
-## ✨ Features
+##  Features
 
 * Teacher Authentication
 * Student Authentication
@@ -18,7 +18,7 @@ A JavaFX-based Attendance and Quiz Management System that allows teachers to man
 * Windows Executable Distribution
 * Custom Java Runtime Included
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ git clone https://github.com/rehmansaeed06-byte/Smart-Attendance-System.git
 cd Smart-Attendance-System
 ```
 
-## 🛠 Development Setup
+##  Development Setup
 
 Configure JavaFX VM Options:
 
@@ -45,7 +45,7 @@ Configure JavaFX VM Options:
 
 Open the project in IntelliJ IDEA and run the desired application.
 
-## 🌐 Cloud Connection (Tailscale)
+##  Cloud Connection (Tailscale)
 
 To connect students and teachers over the Internet:
 
@@ -59,7 +59,7 @@ To connect students and teachers over the Internet:
 
 No port forwarding is required.
 
-## 🏠 Local Network Usage
+##  Local Network Usage
 
 1. Start the Server Application.
 2. Click "Start Server".
@@ -67,7 +67,7 @@ No port forwarding is required.
 4. Enter the IP address in Teacher and Student applications.
 5. Connect.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/            Application Source Code
@@ -77,7 +77,7 @@ xml/            Configuration Files
 mcqs.csv        Sample MCQ Data
 ```
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 * Java
 * JavaFX
@@ -96,16 +96,16 @@ Add screenshots of:
 * Student Interface
 * Quiz Window
 
-## 📦 Releases
+##  Releases
 
 Pre-built Windows releases are available in the Releases section.
 
 No separate Java installation is required for release builds.
 
-## 👨‍💻 Developer
+##  Developer
 
 BroCode
 
-## 📄 License
+##  License
 
 This project is provided for educational and learning purposes.
